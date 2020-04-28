@@ -1,0 +1,19 @@
+Tuesday, 28 April 2020 17:13:43
+Temperature: 14 Humidity: 15 CO2: 94 VOC: 12
+Tuesday, 28 April 2020 17:13:45
+Temperature: 21 Humidity: 19 CO2: 286 VOC: 11
+Tuesday, 28 April 2020 17:13:47
+Temperature: 18 Humidity: 12 CO2: 67 VOC: 13
+Tuesday, 28 April 2020 17:14:16
+Temperature: 3 Humidity: 13 CO2: 376 VOC: 15
+Tuesday, 28 April 2020 17:14:18
+Temperature: 18 Humidity: 10 CO2: 368 VOC: 13
+Tuesday, 28 April 2020 20:31:39
+Temperature: 
+ Humidity:  CO2: ? VOC: 
+Tuesday, 28 April 2020 20:31:42
+Temperature:  Humidity:  CO2: ? VOC: 
+Tuesday, 28 April 2020 20:32:35
+Temperature:  Humidity:  CO2: ? VOC: 
+Tuesday, 28 April 2020 20:34:47
+Temperature: 6 Humidity: 19 CO2: 109 VOC: 12
