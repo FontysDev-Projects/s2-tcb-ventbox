@@ -1,9 +1,0 @@
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\bin\Debug\VentilationBox.exe.config
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\bin\Debug\VentilationBox.exe
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\bin\Debug\VentilationBox.pdb
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.csprojAssemblyReference.cache
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.Form1.resources
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.Properties.Resources.resources
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.csproj.GenerateResource.cache
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.exe
-C:\Users\Victor\source\repos\VentilationBox\VentilationBox\obj\Debug\VentilationBox.pdb

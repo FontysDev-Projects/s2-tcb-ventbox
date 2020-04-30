@@ -70,6 +70,7 @@
             // timer1
             // 
             this.timer1.Enabled = true;
+            this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // humiditylbl
@@ -140,6 +141,7 @@
             this.lblReading.Size = new System.Drawing.Size(35, 13);
             this.lblReading.TabIndex = 8;
             this.lblReading.Text = "label1";
+            this.lblReading.Visible = false;
             // 
             // timer2
             // 
