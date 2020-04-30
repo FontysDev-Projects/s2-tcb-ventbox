@@ -22,7 +22,7 @@ int tvoc;
 
 Doing so the app will work under normal conditions.
 
-2. You will have to update the path in the C# App
+2. You will have to update the path that I used to your file path in the C# App.
 
 You will find it on the 100th line.
 
