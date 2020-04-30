@@ -1,5 +1,5 @@
 Before starting to test you may want to follow these steps:
-1. if you implement the functions on your arduino board you must
+1. if you implement the functions on your Nucleo board you must
 create some mock data for the others parameters that you are not measuring.
 
 You can copy/paste from these:
