@@ -5,21 +5,26 @@
 
 SHTSensor SHTSENSE;
 
-float humidity = 0;
-float previousHumidity = 0;
-float temperature = 0;
-float previousTemperature = 0;
-float humidityDifference = 0;
-float temperatureDifference = 0;
-unsigned long lastMillis = 0;
+float hum = 0;
+float temp = 0;
+int co;
+int tvoc;
+
+float prevHum = 0;
+float prevTem = 0;
+
+float humDif = 0;
+float temDif = 0;
+
+void addParameter(String *message, String data, int measurement);
+String addData(int data);
+void writeData();
 
 void setup()
 {
   Serial.begin(9600);
-  Serial.println("14CORE | Temperature & Humidity Test Code");
+  Serial.println("Initializing SHT30 Temperature and Humidity sensor");
   delay(1000);
-  Serial.println("Initializing..............");
-  delay(4000);
   Wire.begin();
   delay(100);
   SHTSENSE.init();
@@ -28,24 +33,63 @@ void setup()
 void loop()
 {
   SHTSENSE.readSample();
-  humidity = SHTSENSE.getHumidity();
-  temperature = SHTSENSE.getTemperature();
-  humidityDifference = humidity - previousHumidity;
-  temperatureDifference = temperature - previousTemperature;
-  if (abs(humidityDifference) > 2)
+  hum = SHTSENSE.getHumidity();
+  temp = SHTSENSE.getTemperature();
+  co = rand() % 100 + 301;
+  tvoc = rand() % 100 + 401;
+  humDif = hum - prevHum;
+  temDif = temp - prevTem;
+  if (abs(humDif) > 2)
   {
-    Serial.print("  Relative humidity: ");
-    Serial.print(humidity, 2);
-    Serial.print("\n");
+    writeData();
+    prevHum = hum;
   }
-  if (abs(temperatureDifference) > 1)
+  if (abs(temDif) > 1)
   {
-    Serial.print("  Temperature:  ");
-    Serial.print(temperature, 2);
-    Serial.print("\n");
+    writeData();
+    prevTem = temp;
   }
-  previousHumidity = humidity;
-  previousTemperature = temperature;
-  lastMillis = millis();
   delay(1000);
+}
+
+void writeData()
+{
+  String dataToSend = "$";
+  for (int i = 1; i < 5; i++)
+  {
+    dataToSend += addData(i);
+  }
+  dataToSend += "%";
+  Serial.println(dataToSend);
+}
+
+String addData(int data)
+{
+  String dataToAdd = "#";
+  switch (data)
+  {
+  case 1:
+    addParameter(&dataToAdd, "te", temp);
+    break;
+  case 2:
+    addParameter(&dataToAdd, "hu", hum);
+    break;
+  case 3:
+    addParameter(&dataToAdd, "co", co);
+    break;
+  case 4:
+    addParameter(&dataToAdd, "vo", tvoc);
+    break;
+  default:
+    break;
+  }
+  return dataToAdd;
+}
+
+void addParameter(String *message, String data, int measurement)
+{
+  *message += data;
+  *message += '-';
+  *message += measurement;
+  *message += "-";
 }
