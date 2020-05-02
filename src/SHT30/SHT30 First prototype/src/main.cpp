@@ -10,6 +10,9 @@ float temp = 0;
 int co;
 int tvoc;
 
+int humidityThreshold = 2;
+int temperatureThreshold = 1;
+
 float prevHum = 0;
 float prevTem = 0;
 
@@ -39,12 +42,12 @@ void loop()
   tvoc = rand() % 100 + 401;
   humDif = hum - prevHum;
   temDif = temp - prevTem;
-  if (abs(humDif) > 2)
+  if (abs(humDif) > humidityThreshold)
   {
     writeData();
     prevHum = hum;
   }
-  if (abs(temDif) > 1)
+  if (abs(temDif) > temperatureThreshold)
   {
     writeData();
     prevTem = temp;
