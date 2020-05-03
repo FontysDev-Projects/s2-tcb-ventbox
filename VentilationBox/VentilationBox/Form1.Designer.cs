@@ -41,6 +41,8 @@
             this.label6 = new System.Windows.Forms.Label();
             this.lblReading = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.checklbl = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lbl1
@@ -136,24 +138,43 @@
             // lblReading
             // 
             this.lblReading.AutoSize = true;
-            this.lblReading.Location = new System.Drawing.Point(49, 150);
+            this.lblReading.Location = new System.Drawing.Point(49, 179);
             this.lblReading.Name = "lblReading";
             this.lblReading.Size = new System.Drawing.Size(35, 13);
             this.lblReading.TabIndex = 8;
             this.lblReading.Text = "label1";
-            this.lblReading.Visible = false;
             // 
             // timer2
             // 
             this.timer2.Enabled = true;
-            this.timer2.Interval = 3000;
+            this.timer2.Interval = 5000;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            // 
+            // checklbl
+            // 
+            this.checklbl.AutoSize = true;
+            this.checklbl.Location = new System.Drawing.Point(174, 149);
+            this.checklbl.Name = "checklbl";
+            this.checklbl.Size = new System.Drawing.Size(35, 13);
+            this.checklbl.TabIndex = 9;
+            this.checklbl.Text = "label1";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(49, 149);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(119, 13);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Sum of the parameters: ";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(464, 191);
+            this.ClientSize = new System.Drawing.Size(464, 216);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.checklbl);
             this.Controls.Add(this.lblReading);
             this.Controls.Add(this.tvoclbl);
             this.Controls.Add(this.label6);
@@ -184,6 +205,8 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblReading;
         private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Label checklbl;
+        private System.Windows.Forms.Label label1;
     }
 }
 

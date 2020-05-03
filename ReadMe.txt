@@ -1,30 +1,23 @@
-Before starting to test you may want to follow these steps:
-1. if you implement the functions on your Nucleo board you must
-create some mock data for the others parameters that you are not measuring.
+To implement the protocol on your Nucleo board follow the steps below:
 
-You can copy/paste from these:
+1. Add "bwoahProtocol.h" and "bwoahProtocol.cpp" to your src folder
 
-~Declare them globally:
+2. Create some simulated data for the parameters that you are NOT measuring
+	You can do that like this:
+	2.1 You have in the "bwoahProtocol.cpp" on line 9 some examples that you can use
+	2.2 Add them into your main.cpp file declared globally
 
-int temp; 
-int hum; 
-int co;  
-int tvoc; 
+3. Try and follow the example as shown in Nucleo Testing example 
+	~ you will need 2 millis timers
+	~ you may want to use a return type of method for updating the values
 
-~Into the loop:
+PS In the "bwoahProtocol.cpp" on line 4 you will find the limits for the parameters - modify it to match your measurments
 
-  temp = rand() % 100 + 101;
-  hum = rand() % 100 + 201;
-  co = rand() % 100 + 301;
-  tvoc = rand() % 100 + 401;
+Other new stuff:
+	~ In the C# App you can see the sum of the parameters, confirming that we can make use of the values
+	~ bwoahProtocol library - easier to implement
+	~ Now you can see which parameter is out of bounds - it will be red colored (C# App)
 
-~~
+!!As always update the path in the C# to your path!!
 
-Doing so the app will work under normal conditions.
-
-2. You will have to update the path that I used to your file path in the C# App.
-
-You will find it on the 100th line.
-
-
-If you find any other bugs please let me know on WhatsApp. :)
+Don't hesitate to message me on WhatsApp or on Discord if you have questions! :) 
