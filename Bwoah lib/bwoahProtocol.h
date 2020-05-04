@@ -1,7 +1,7 @@
-#include <Arduino.h>
-
 #ifndef bwoahProtocol_h
 #define bwoahProtocol_h
+
+#include <Arduino.h>
 
 int testTemp(float parameter);
 int testHum(float parameter);

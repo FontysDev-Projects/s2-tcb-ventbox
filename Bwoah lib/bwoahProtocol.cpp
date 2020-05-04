@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include <bwoahProtocol.h>
 
 #define tempLimit 1.95
