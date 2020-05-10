@@ -2,6 +2,7 @@
 #include <Wire.h>
 
 #include <SHTSensor.h>
+#include <bwoahProtocol.h>
 
 SHTSensor SHTSENSE;
 
@@ -14,7 +15,7 @@ int humidityThreshold = 2;
 int temperatureThreshold = 1;
 
 float prevHum = 0;
-float prevTem = 0;
+float prevTemp = 0;
 
 float humDif = 0;
 float temDif = 0;
@@ -41,58 +42,16 @@ void loop()
   co = rand() % 100 + 301;
   tvoc = rand() % 100 + 401;
   humDif = hum - prevHum;
-  temDif = temp - prevTem;
+  temDif = temp - prevTemp;
   if (abs(humDif) > humidityThreshold)
   {
-    writeData();
+    writeData(temp, hum, co, tvoc);
     prevHum = hum;
   }
   if (abs(temDif) > temperatureThreshold)
   {
-    writeData();
-    prevTem = temp;
+    writeData(temp, hum, co, tvoc);
+    prevTemp = temp;
   }
   delay(1000);
-}
-
-void writeData()
-{
-  String dataToSend = "$";
-  for (int i = 1; i < 5; i++)
-  {
-    dataToSend += addData(i);
-  }
-  dataToSend += "%";
-  Serial.println(dataToSend);
-}
-
-String addData(int data)
-{
-  String dataToAdd = "#";
-  switch (data)
-  {
-  case 1:
-    addParameter(&dataToAdd, "te", temp);
-    break;
-  case 2:
-    addParameter(&dataToAdd, "hu", hum);
-    break;
-  case 3:
-    addParameter(&dataToAdd, "co", co);
-    break;
-  case 4:
-    addParameter(&dataToAdd, "vo", tvoc);
-    break;
-  default:
-    break;
-  }
-  return dataToAdd;
-}
-
-void addParameter(String *message, String data, int measurement)
-{
-  *message += data;
-  *message += '-';
-  *message += measurement;
-  *message += "-";
 }
