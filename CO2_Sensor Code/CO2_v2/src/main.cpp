@@ -1,4 +1,7 @@
 #include <Arduino.h>
+
+#include <bwoahProtocol.h>
+
 #include <CO2.h>
 #include <ErrorHandler.h>
 
@@ -38,14 +41,11 @@ void setup()
 
 void loop()
 {
+  delay(100); // simulates doing something else
+
+  CO2_Levels = co2Sensor.getMesurments();
+  writeData(100, 100, CO2_Levels, 100);
 }
-
-// Serial.println(ErrorHandler(co2Sensor.getMesurments()));
-// Serial.print("The CO2 value is: ");
-// Serial.print(co2Sensor.getMesurments());
-// Serial.print('\n');
-
-// delay(5000);
 
 // switch (ProgramState)
 // {
@@ -53,24 +53,28 @@ void loop()
 //   // ProgramState = SENSOR_CALIBRATION;
 //   break;
 // case DATA_TRANSFERING:
-//   Serial.print("The CO2 value is: ");
-//   Serial.print(co2Sensor.getMesurments());
-//   Serial.print('\n');
-//   ProgramState = IDLE;
+//   // Serial.print("The CO2 value is: ");
+//   // Serial.print(co2Sensor.getMesurments());
+//   // Serial.print('\n');
+//   // ProgramState = IDLE;
 
-//   // switch (DataProcessingState)
-//   // {
-//   // case DATA_FETCHING:
-//   //   // fetch data from the sensors
-//   //   CO2_Levels = co2Sensor.getMesurments();
-//   //   break;
-//   // case DATA_PREPARATION:
-//   //   // Format data, and prepare it for sending throught the Zigbee
-//   //   break;
-//   // case DATA_SEDNDING:
-//   //   // Send the formated data to the server(C# App)
-//   //   break;
-//   // }
+//   switch (DataProcessingState)
+//     // {
+//     // case DATA_FETCHING:
+//     //   // fetch data from the sensors
+//     //   CO2_Levels = co2Sensor.getMesurments();
+//     //   break;
+//     // case DATA_PREPARATION:
+//     //   // Format data, and prepare it for sending throught the Zigbee
+
+//     //   break;
+//     // case DATA_SEDNDING:
+//     //   // Send the formated data to the server(C# App)
+//     //   break;
+//     // }
+//     CO2_Levels = co2Sensor.getMesurments();
+
+//   writeData(100, 100, CO2_Levels, 100);
 
 //   break;
 // case SENSOR_CALIBRATION:
@@ -83,6 +87,12 @@ void loop()
 //   ProgramState = DATA_TRANSFERING;
 //   break;
 // }
+// Serial.println(ErrorHandler(co2Sensor.getMesurments()));
+// Serial.print("The CO2 value is: ");
+// Serial.print(co2Sensor.getMesurments());
+// Serial.print('\n');
+
+// delay(5000);
 
 // // read data
 

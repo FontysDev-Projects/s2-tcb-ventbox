@@ -110,7 +110,7 @@ int CO2 ::sendCommand(uint8_t *command, uint8_t commandLenght)
     // Write to the sensor
     CO2_Serial->write(command, commandLenght);
     // Wait 500 microseconds
-    delayMicroseconds(1000);
+    delayMicroseconds(500);
     // Buffer data
     recieveData();
     // Process the buffered data and returns
