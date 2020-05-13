@@ -99,8 +99,6 @@ namespace VentilationBox
                 position++;
             }
             while (command[position] != '-');
-            while (command[position] != '-');
-            while (command[position] != '-');
             return parameterValue;
         }
 
@@ -111,13 +109,11 @@ namespace VentilationBox
                 File.AppendAllText(filePath, parameterAlert + Environment.NewLine);
                 parameterLabel.ForeColor = Color.Red;
                 alert = true;
-                
             }
             else
             {
                 parameterLabel.ForeColor = Color.Black;
             }
-            
             parameterLabel.Text = parameterValue;
             return (float)Convert.ToDouble(parameterValue);
         }
@@ -194,6 +190,44 @@ namespace VentilationBox
         {
             logData();
             updateSum();
+        }
+
+        String parameterThresholdName()
+        {
+            String paramThreshold = "";
+            switch (thresholdcmbx.SelectedIndex)
+            {
+                case 0:
+                    paramThreshold += "te";
+                    break;
+                case 1:
+                    paramThreshold += "hu";
+                    break;
+                case 2:
+                    paramThreshold += "co";
+                    break;
+                case 3:
+                    paramThreshold += "vo";
+                    break;
+                default:
+                    break;
+            }
+            return "(" + paramThreshold + "-";
+        }
+
+        String parameterThresholdValue()
+        {
+            return thresholdtbx.Text + ")";
+        }
+
+        String thresholdToSend()
+        {
+            return parameterThresholdName() + parameterThresholdValue();
+        }
+
+        private void thresholdbtn_Click(object sender, EventArgs e)
+        {
+            serialPort1.Write(thresholdToSend());
         }
     }
 }

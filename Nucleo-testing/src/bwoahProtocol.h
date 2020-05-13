@@ -12,4 +12,11 @@ void addParameter(String *message, String data, float measurement, int sharpRais
 String addData(int data, float temp, float hum, float co, float tvoc);
 void writeData(float temp, float hum, float co, float tvoc);
 
+void printLimits();
+
+String getParamNameThreshold(String data);
+float getParamValueThreshold(String data);
+void modifyParamThreshold(String name, float value);
+void controlThreshold(String data);
+
 #endif

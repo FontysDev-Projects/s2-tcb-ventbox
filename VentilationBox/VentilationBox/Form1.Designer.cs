@@ -43,6 +43,11 @@
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.checklbl = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.thresholdcmbx = new System.Windows.Forms.ComboBox();
+            this.thresholdtbx = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.thresholdbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl1
@@ -168,11 +173,67 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Sum of the parameters: ";
             // 
+            // thresholdcmbx
+            // 
+            this.thresholdcmbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.thresholdcmbx.FormattingEnabled = true;
+            this.thresholdcmbx.Items.AddRange(new object[] {
+            "Temperature",
+            "Humidity",
+            "CO2",
+            "VOC"});
+            this.thresholdcmbx.Location = new System.Drawing.Point(454, 34);
+            this.thresholdcmbx.Name = "thresholdcmbx";
+            this.thresholdcmbx.Size = new System.Drawing.Size(121, 21);
+            this.thresholdcmbx.TabIndex = 11;
+            // 
+            // thresholdtbx
+            // 
+            this.thresholdtbx.Location = new System.Drawing.Point(454, 113);
+            this.thresholdtbx.Name = "thresholdtbx";
+            this.thresholdtbx.Size = new System.Drawing.Size(121, 20);
+            this.thresholdtbx.TabIndex = 12;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(451, 18);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(93, 13);
+            this.label3.TabIndex = 13;
+            this.label3.Text = "Select parameter: ";
+            this.label3.Visible = false;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(451, 97);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(75, 13);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Set threshold: ";
+            this.label5.Visible = false;
+            // 
+            // thresholdbtn
+            // 
+            this.thresholdbtn.Location = new System.Drawing.Point(454, 139);
+            this.thresholdbtn.Name = "thresholdbtn";
+            this.thresholdbtn.Size = new System.Drawing.Size(121, 23);
+            this.thresholdbtn.TabIndex = 15;
+            this.thresholdbtn.Text = "Set Limit";
+            this.thresholdbtn.UseVisualStyleBackColor = true;
+            this.thresholdbtn.Click += new System.EventHandler(this.thresholdbtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(464, 216);
+            this.ClientSize = new System.Drawing.Size(612, 216);
+            this.Controls.Add(this.thresholdbtn);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.thresholdtbx);
+            this.Controls.Add(this.thresholdcmbx);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.checklbl);
             this.Controls.Add(this.lblReading);
@@ -207,6 +268,11 @@
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.Label checklbl;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox thresholdcmbx;
+        private System.Windows.Forms.TextBox thresholdtbx;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button thresholdbtn;
     }
 }
 

@@ -1,10 +1,13 @@
 #include <Arduino.h>
 #include <bwoahProtocol.h>
+#include <string.h>
 
-#define tempLimit 1.95
-#define humLimit 3.95
-#define coLimit 5.95
-#define tvocLimit 7.95
+// parameters limits
+float tempLimit = 1.95;
+float humLimit = 3.95;
+float coLimit = 5.95;
+float tvocLimit = 7.95;
+//
 
 // ~~~~~~
 // float a = 2.0;
@@ -25,6 +28,8 @@
 // te/hu/etc. - type of data transmited
 // data - actual data
 // "-" - separators
+
+
 
 int testTemp(float parameter)
 {
@@ -125,4 +130,74 @@ void writeData(float temp, float hum, float co, float tvoc)
   }
   dataToSend += "%";
   Serial.println(dataToSend);
+}
+
+void printLimits()
+{
+  Serial.print("temp - ");
+  Serial.print(tempLimit);
+  Serial.print(" hum - ");
+  Serial.print(humLimit);
+  Serial.print(" co2 - ");
+  Serial.print(coLimit);
+  Serial.print(" tvoc - ");
+  Serial.println(tvocLimit);
+}
+
+// te-4.65
+String getParamNameThreshold(String data)
+{
+  String name = "";
+  name += data[0];
+  name += data[1];
+  
+  return name;
+}
+
+float getParamValueThreshold(String data)
+{
+  String valueAsString = "";
+  int separatorPos = 0;
+  for(unsigned int i = 0; i < data.length(); i++)
+  {
+    if(data[i] == '-')
+    {
+      separatorPos = i;
+    }
+  }
+  for(unsigned int i = separatorPos + 1; i < data.length(); i++)
+  {
+    valueAsString += data[i];
+  }
+  
+  return valueAsString.toFloat();
+}
+
+void modifyParamThreshold(String name, float value)
+{
+  if(name == "te")
+  {
+    tempLimit = value;
+  }
+  if(name == "hu")
+  {
+    humLimit = value;
+  }
+  if(name == "co")
+  {
+    coLimit = value;
+  }
+  if(name == "vo")
+  {
+    tvocLimit = value;
+  }
+}
+
+void controlThreshold(String data)
+{
+  if(data[0] == 'C')
+  {
+    //modifyParamThreshold(getParamNameThreshold(getDataFromApp(data)), getParamValueThreshold(getDataFromApp(data)));
+  }
+  
 }
