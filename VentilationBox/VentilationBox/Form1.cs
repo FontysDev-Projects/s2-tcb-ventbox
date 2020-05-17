@@ -15,11 +15,13 @@ namespace VentilationBox
     public partial class Form1 : Form
     {
         bool alert = false;
-        string filePath = @"C:\Users\Victor\source\repos\VentilationBox\ventilationBoxLogs.txt";
+        string filePath = @"C:\Users\Ivo\Desktop\VentilationBox\ventilationBoxLogs.txt";
         float tempValue;
         float humValue;
         float coValue;
         float tvocValue;
+
+        Ventilation ventilation; //The window for the ventilation and the algorithm.
         public Form1()
         {
             InitializeComponent();
@@ -228,6 +230,16 @@ namespace VentilationBox
         private void thresholdbtn_Click(object sender, EventArgs e)
         {
             serialPort1.Write(thresholdToSend());
+        }
+
+        private void btnVentilation_Click(object sender, EventArgs e)
+        {
+            ventilation = new Ventilation();
+
+            if (ventilation.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Success.");
+            }
         }
     }
 }
