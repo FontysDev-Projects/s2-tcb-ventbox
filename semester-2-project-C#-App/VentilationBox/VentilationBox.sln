@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentilationBox", "VentilationBox\VentilationBox.csproj", "{97886E3C-CB7B-4B60-879D-5DCEE681428B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97886E3C-CB7B-4B60-879D-5DCEE681428B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97886E3C-CB7B-4B60-879D-5DCEE681428B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97886E3C-CB7B-4B60-879D-5DCEE681428B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97886E3C-CB7B-4B60-879D-5DCEE681428B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BCAA0D-8379-4524-B666-3C5843E2FCEC}
+	EndGlobalSection
+EndGlobal
