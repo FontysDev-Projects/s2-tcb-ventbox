@@ -10,19 +10,21 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Globalization;
 using System.Runtime.InteropServices;
+using System.Threading;
 
 namespace VentilationBox
 {
     public partial class Form1 : Form
     {
         //The window for the ventilation and the algorithm.
-        Ventilation ventilation; 
+        Ventilation ventilation;
 
+        //String where the message received by the ESP will be stored
+        public static String message = "$#te-20-#hu-50-#co-250-#vo-300-%";
         //filepath, boolean and doubles for values and valLimits
-        string filePath = @"C:\Users\yvank\Desktop\semester-2-project-C#-App\VentilationBox\ventilationBoxLogs.txt";
+        string filePath = @"D:\Programming\Semester 2\Week 1-6\Project\semester-2-project\VentBoxPrototype\ventilationBoxLogs.txt";
         double tempValue, humValue, coValue, tvocValue, tempLim = 1.95, humLim = 3.95, coLim = 5.95, tvocLim = 750, sumReadings = 0;
         bool alert = false;
-
         //TEMPORARY DOUBLES
         double tempOutside = 0, humOutside = 1;
 
@@ -60,7 +62,7 @@ namespace VentilationBox
         public Form1()
         {
             InitializeComponent();           
-            serialPort1.Open();
+            //serialPort1.Open();
             checklbl.Text = sumReadings.ToString();
             File.AppendAllText(filePath, $"0 < Temperature < {tempLim}" + Environment.NewLine);
             File.AppendAllText(filePath, $"2 < Humidity < {humLim}" + Environment.NewLine);
@@ -69,7 +71,15 @@ namespace VentilationBox
             File.AppendAllText(filePath, $"Start time: {DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss")}" + Environment.NewLine + Environment.NewLine);
 
             this.FormBorderStyle = FormBorderStyle.None;
-            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));            
+            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+
+            //Starting the server for the wireless communication
+            Thread t = new Thread(delegate ()
+            {
+                // replace the IP with your system IP Address...
+                Server myserver = new Server("192.168.178.17", 8888, message);
+            });
+            t.Start();
         }
 
 
@@ -86,7 +96,7 @@ namespace VentilationBox
         /// Resets timer
         /// </summary>
         /// <param name="timer"></param>
-        void resetLogTimer(Timer timer)
+        void resetLogTimer(System.Windows.Forms.Timer timer)
         {
             timer.Stop();   timer.Start();
         }
@@ -320,7 +330,7 @@ namespace VentilationBox
             // te-data-
             // hu-data-
             // and so on...
-            string commandSent = serialPort1.ReadExisting().Trim();
+            string commandSent = message;
             string commandToDo = "";
             for(int i = 0; i < commandSent.Length; i++)
             {
