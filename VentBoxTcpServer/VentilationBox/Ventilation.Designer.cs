@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.trackBarCurrentTemperature = new System.Windows.Forms.TrackBar();
             this.label1 = new System.Windows.Forms.Label();
             this.lblCurrentTemperature = new System.Windows.Forms.Label();
@@ -40,9 +40,10 @@
             this.trackBarTargetTemperature = new System.Windows.Forms.TrackBar();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            this.btnClose = new System.Windows.Forms.Button();
             this.lblTopBar = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.cmbMode = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarCurrentTemperature)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarTargetTemperature)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
@@ -51,7 +52,7 @@
             // 
             // trackBarCurrentTemperature
             // 
-            this.trackBarCurrentTemperature.Location = new System.Drawing.Point(16, 116);
+            this.trackBarCurrentTemperature.Location = new System.Drawing.Point(16, 220);
             this.trackBarCurrentTemperature.Maximum = 30;
             this.trackBarCurrentTemperature.Minimum = 10;
             this.trackBarCurrentTemperature.Name = "trackBarCurrentTemperature";
@@ -65,7 +66,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 70);
+            this.label1.Location = new System.Drawing.Point(12, 174);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(183, 24);
             this.label1.TabIndex = 1;
@@ -74,7 +75,7 @@
             // lblCurrentTemperature
             // 
             this.lblCurrentTemperature.AutoSize = true;
-            this.lblCurrentTemperature.Location = new System.Drawing.Point(76, 100);
+            this.lblCurrentTemperature.Location = new System.Drawing.Point(76, 204);
             this.lblCurrentTemperature.Name = "lblCurrentTemperature";
             this.lblCurrentTemperature.Size = new System.Drawing.Size(19, 13);
             this.lblCurrentTemperature.TabIndex = 2;
@@ -83,7 +84,7 @@
             // lblTargetTemperature
             // 
             this.lblTargetTemperature.AutoSize = true;
-            this.lblTargetTemperature.Location = new System.Drawing.Point(76, 212);
+            this.lblTargetTemperature.Location = new System.Drawing.Point(76, 316);
             this.lblTargetTemperature.Name = "lblTargetTemperature";
             this.lblTargetTemperature.Size = new System.Drawing.Size(19, 13);
             this.lblTargetTemperature.TabIndex = 5;
@@ -93,7 +94,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 182);
+            this.label3.Location = new System.Drawing.Point(12, 286);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(175, 24);
             this.label3.TabIndex = 4;
@@ -101,7 +102,7 @@
             // 
             // trackBarTargetTemperature
             // 
-            this.trackBarTargetTemperature.Location = new System.Drawing.Point(16, 228);
+            this.trackBarTargetTemperature.Location = new System.Drawing.Point(16, 332);
             this.trackBarTargetTemperature.Maximum = 30;
             this.trackBarTargetTemperature.Minimum = 10;
             this.trackBarTargetTemperature.Name = "trackBarTargetTemperature";
@@ -118,40 +119,24 @@
             // 
             // chart1
             // 
-            chartArea3.AxisY.MajorGrid.Interval = 5D;
-            chartArea3.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.chart1.Legends.Add(legend3);
+            chartArea1.AxisY.MajorGrid.Interval = 5D;
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(201, 70);
             this.chart1.Name = "chart1";
             this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Excel;
-            series3.BorderWidth = 5;
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series3.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            series3.Legend = "Legend1";
-            series3.Name = "Temperature";
-            this.chart1.Series.Add(series3);
+            series1.BorderWidth = 5;
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series1.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            series1.Legend = "Legend1";
+            series1.Name = "Temperature";
+            this.chart1.Series.Add(series1);
             this.chart1.Size = new System.Drawing.Size(471, 336);
             this.chart1.TabIndex = 7;
             this.chart1.Text = "chart1";
-            // 
-            // btnClose
-            // 
-            this.btnClose.BackColor = System.Drawing.Color.DimGray;
-            this.btnClose.FlatAppearance.BorderSize = 0;
-            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.ForeColor = System.Drawing.Color.White;
-            this.btnClose.Location = new System.Drawing.Point(46, 328);
-            this.btnClose.Margin = new System.Windows.Forms.Padding(0);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(107, 41);
-            this.btnClose.TabIndex = 23;
-            this.btnClose.Text = "Close";
-            this.btnClose.UseVisualStyleBackColor = false;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // lblTopBar
             // 
@@ -160,7 +145,6 @@
             this.lblTopBar.Name = "lblTopBar";
             this.lblTopBar.Size = new System.Drawing.Size(1131, 50);
             this.lblTopBar.TabIndex = 22;
-            this.lblTopBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.lblTopBar_MouseDown);
             // 
             // pictureBox1
             // 
@@ -173,13 +157,45 @@
             this.pictureBox1.TabIndex = 21;
             this.pictureBox1.TabStop = false;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.DimGray;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(635, 0);
+            this.button1.Margin = new System.Windows.Forms.Padding(0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(50, 50);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "X";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // cmbMode
+            // 
+            this.cmbMode.FormattingEnabled = true;
+            this.cmbMode.Items.AddRange(new object[] {
+            "Temperature",
+            "Humidity",
+            "VOC",
+            "CO₂",
+            "Simulation"});
+            this.cmbMode.Location = new System.Drawing.Point(16, 70);
+            this.cmbMode.Name = "cmbMode";
+            this.cmbMode.Size = new System.Drawing.Size(189, 21);
+            this.cmbMode.TabIndex = 25;
+            this.cmbMode.SelectedIndexChanged += new System.EventHandler(this.cmbMode_SelectedIndexChanged);
+            // 
             // Ventilation
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(694, 429);
-            this.Controls.Add(this.btnClose);
+            this.Controls.Add(this.cmbMode);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblTopBar);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.chart1);
@@ -211,8 +227,9 @@
         private System.Windows.Forms.TrackBar trackBarTargetTemperature;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
-        private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Label lblTopBar;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox cmbMode;
     }
 }

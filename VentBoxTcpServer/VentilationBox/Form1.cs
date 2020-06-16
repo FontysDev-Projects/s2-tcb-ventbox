@@ -20,13 +20,15 @@ namespace VentilationBox
         Ventilation ventilation;
 
         //String where the message received by the ESP will be stored
-        public static String message = "$#te-20-#hu-50-#co-250-#vo-300-%";
+        public static String message = "";
         //filepath, boolean and doubles for values and valLimits
-        string filePath = @"D:\Programming\Semester 2\Week 1-6\Project\semester-2-project\VentBoxPrototype\ventilationBoxLogs.txt";
-        double tempValue, humValue, coValue, tvocValue, tempLim = 1.95, humLim = 3.95, coLim = 5.95, tvocLim = 750, sumReadings = 0;
+        string filePath = @"D:\Programming\Semester 2\Week 1-6\Project\semester-2-project\VentBoxTcpServer\ventilationBoxLogs.txt";
+        public static double tempValue, humValue, coValue, tvocValue, tempLim = 1.95, humLim = 3.95, coLim = 5.95, tvocLim = 750, sumReadings = 0;
         bool alert = false;
         //TEMPORARY DOUBLES
         double tempOutside = 0, humOutside = 1;
+
+        public static int test = 0;
 
         //Rounded corners for rectangle(UI)
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
@@ -39,7 +41,7 @@ namespace VentilationBox
             int nWidthEllipse, // width of ellipse
             int nHeightEllipse // height of ellipse
         );
-       
+
         //Move window
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
@@ -61,7 +63,7 @@ namespace VentilationBox
         //Initialization Phase (ports, dataFile, etc.)
         public Form1()
         {
-            InitializeComponent();           
+            InitializeComponent();
             //serialPort1.Open();
             checklbl.Text = sumReadings.ToString();
             File.AppendAllText(filePath, $"0 < Temperature < {tempLim}" + Environment.NewLine);
@@ -77,7 +79,7 @@ namespace VentilationBox
             Thread t = new Thread(delegate ()
             {
                 // replace the IP with your system IP Address...
-                Server myserver = new Server("192.168.178.17", 8888, message);
+                Server myserver = new Server("172.27.208.139", 8888, message);
             });
             t.Start();
         }
@@ -98,14 +100,14 @@ namespace VentilationBox
         /// <param name="timer"></param>
         void resetLogTimer(System.Windows.Forms.Timer timer)
         {
-            timer.Stop();   timer.Start();
+            timer.Stop(); timer.Start();
         }
 
         /// <summary>
         /// Logs data to external file
         /// </summary>
         void logData()
-        {            
+        {
             File.AppendAllText(filePath, "~~~~~~~~~~ " + Environment.NewLine);
             File.AppendAllText(filePath, DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss") + Environment.NewLine);
             File.AppendAllText(filePath, "Temperature: " + temperatureValuelbl.Text + " ");
@@ -137,8 +139,8 @@ namespace VentilationBox
         {
             if (value > limit)
                 return true;
-            return false;              
-        }        
+            return false;
+        }
 
         /// <summary>
         /// Actions taken depending on temperature(window, ac-output, etc.)
@@ -148,13 +150,13 @@ namespace VentilationBox
         void takeActionTemp(double roomTemp, double limit)
         {
             double percent = 100 - ((100 * limit) / roomTemp);
-            if(roomTemp > tempOutside)
+            if (roomTemp > tempOutside)
             {
-                if(percent > 1)
+                if (percent > 1)
                 {
                     lblWindow1.Text = "Open";
                 }
-                if(percent > 10)
+                if (percent > 10)
                 {
                     lblWindow2.Text = "Open";
                 }
@@ -240,39 +242,30 @@ namespace VentilationBox
             {
                 lblAcOutput.Text = "90%";
             }
-        }  
+        }
 
-        string getParameterName(string command, int position)
+        string getParameterName(string command)
         {
-            
+
             string parameterName = "";
-            parameterName += command[position + 1];
-            parameterName += command[position + 2];
+            int end = command.IndexOf('-');
+            parameterName = command.Substring(1, end - 1);
             return parameterName;
         }
 
-        bool getParameterState(string command, int position)
+        String getParameterValue(string command)
         {
-            if (command[position] == '!')
-                return true;
-            return false;
-        }
-
-        string getParameterValue(string command, int position)
-        {
-            string parameterValue = "";
-            do
-            {
-                parameterValue += command[position];
-                position++;
-            }
-            while (command[position] != '-');
+            String parameterValue = "";
+            int start = command.IndexOf('-');
+            int end = command.IndexOf('%');
+            parameterValue = command.Substring(start + 1, end - start - 1);
             return parameterValue;
         }
 
-        double setParameter(string parameterValue, bool parameterState, Label parameterLabel, string parameterAlert)
+        double setParameter(string parameterValue, double parameterLimit, Label parameterLabel, string parameterAlert)
         {
-            if (parameterState)
+            double parameterDoubleValue = Convert.ToDouble(parameterValue);
+            if (parameterDoubleValue > parameterLimit)
             {
                 File.AppendAllText(filePath, parameterAlert + Environment.NewLine);
                 parameterLabel.ForeColor = Color.Red;
@@ -282,46 +275,73 @@ namespace VentilationBox
             {
                 parameterLabel.ForeColor = Color.Black;
             }
-            parameterLabel.Text = parameterValue;           
-            return Convert.ToDouble(parameterValue);
+            parameterLabel.Text = parameterValue;
+            switch (parameterAlert)
+            {
+                case "Temperature alert! ":
+                    parameterLabel.Text += " °C";
+                    break;
+                case "Humidity alert! ":
+                    parameterLabel.Text += " %";
+                    break;
+                case "CO2 alert! ":
+                    parameterLabel.Text += " ppm";
+                    break;
+                case "TVOC alert! ":
+                    parameterLabel.Text += " ppm";
+                    break;
+                default:
+                    break;
+            }
+           
+
+            return parameterDoubleValue;
         }
 
-        void showParameter(string parameterName,string parameterValue, bool parameterState)
+        void showParameter(string parameterName, string parameterValue)
         {
             if (parameterName == "te")
             {
-                tempValue = setParameter(parameterValue, parameterState, temperatureValuelbl, "Temperature alert! ");
-                if(checkAlarm(tempValue, tempLim))
+                tempValue = setParameter(parameterValue, tempLim, temperatureValuelbl, "Temperature alert! ");
+                if (checkAlarm(tempValue, tempLim))
+                {
                     takeActionTemp(tempValue, tempLim);
-                
+                }
+
             }
             else if (parameterName == "hu")
             {
-                humValue = setParameter(parameterValue, parameterState, humiditylbl, "Humidity alert! ");
+                humValue = setParameter(parameterValue, humLim, humiditylbl, "Humidity alert! ");
                 if (checkAlarm(humValue, humLim))
+                {
                     takeActionHum(humValue, humLim);
+                }
+
             }
             else if (parameterName == "co")
             {
-                coValue = setParameter(parameterValue, parameterState, co2lbl, "CO2 alert! ");
+                coValue = setParameter(parameterValue, coLim, co2lbl, "CO2 alert! ");
                 if (checkAlarm(coValue, coLim))
+                {
                     takeActionCoTvoc(coValue, coLim);
+                }
+
             }
-            else if (parameterName == "vo")
+            else if (parameterName == "voc")
             {
-                tvocValue = setParameter(parameterValue, parameterState, tvoclbl, "TVOC alert! ");
+                tvocValue = setParameter(parameterValue, tvocLim, tvoclbl, "TVOC alert! ");
                 if (checkAlarm(tvocValue, tvocLim))
+                {
                     takeActionCoTvoc(tvocValue, tvocLim);
+                }
+
             }
         }
 
         void getData(string command)
         {
-            for (int i = 0; i < command.Length; i++)
-            {
-                if(command[i] == '#')
-                    showParameter(getParameterName(command, i), getParameterValue(command, i + 4), getParameterState(command, i + 3));
-            }
+            if (command[0] == '$')
+                showParameter(getParameterName(command), getParameterValue(command));
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -332,9 +352,9 @@ namespace VentilationBox
             // and so on...
             string commandSent = message;
             string commandToDo = "";
-            for(int i = 0; i < commandSent.Length; i++)
+            for (int i = 0; i < commandSent.Length; i++)
             {
-                if(commandSent[i] == '%')
+                if (commandSent[i] == '%')
                 {
                     commandToDo += commandSent[i];
                     break;
@@ -346,22 +366,22 @@ namespace VentilationBox
                 lblReading.Text = commandToDo;
                 if (commandToDo[0] == '$')
                 {
-                    
+
                     getData(commandToDo);
-                }  
+                }
             }
-            if(alert)
+            if (alert)
             {
                 logAlertData();
                 alert = false;
                 updateSum();
                 resetLogTimer(timer2);
-            }             
+            }
         }
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            logData();  updateSum();            
+            logData(); updateSum();
         }
 
         String parameterThresholdName()
@@ -428,13 +448,13 @@ namespace VentilationBox
             ventilation = new Ventilation();
             if (ventilation.ShowDialog() == DialogResult.OK)
             {
-                MessageBox.Show("Success.");
+
             }
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Environment.Exit(0);
         }
 
         private void btmModLim_Click(object sender, EventArgs e)

@@ -100,10 +100,9 @@
             this.lbl1.BackColor = System.Drawing.Color.White;
             this.lbl1.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl1.ForeColor = System.Drawing.Color.Black;
-            this.lbl1.Location = new System.Drawing.Point(74, 115);
-            this.lbl1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl1.Location = new System.Drawing.Point(49, 75);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(282, 40);
+            this.lbl1.Size = new System.Drawing.Size(189, 26);
             this.lbl1.TabIndex = 0;
             this.lbl1.Text = "Temperature";
             // 
@@ -113,10 +112,9 @@
             this.temperatureValuelbl.BackColor = System.Drawing.Color.White;
             this.temperatureValuelbl.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.temperatureValuelbl.ForeColor = System.Drawing.Color.Black;
-            this.temperatureValuelbl.Location = new System.Drawing.Point(418, 115);
-            this.temperatureValuelbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.temperatureValuelbl.Location = new System.Drawing.Point(279, 75);
             this.temperatureValuelbl.Name = "temperatureValuelbl";
-            this.temperatureValuelbl.Size = new System.Drawing.Size(25, 40);
+            this.temperatureValuelbl.Size = new System.Drawing.Size(17, 26);
             this.temperatureValuelbl.TabIndex = 1;
             this.temperatureValuelbl.Text = "-";
             // 
@@ -126,10 +124,9 @@
             this.label2.BackColor = System.Drawing.Color.White;
             this.label2.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(80, 186);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(53, 121);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(189, 40);
+            this.label2.Size = new System.Drawing.Size(129, 26);
             this.label2.TabIndex = 2;
             this.label2.Text = "Humidity";
             // 
@@ -139,10 +136,9 @@
             this.humiditylbl.BackColor = System.Drawing.Color.White;
             this.humiditylbl.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.humiditylbl.ForeColor = System.Drawing.Color.Black;
-            this.humiditylbl.Location = new System.Drawing.Point(418, 186);
-            this.humiditylbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.humiditylbl.Location = new System.Drawing.Point(279, 121);
             this.humiditylbl.Name = "humiditylbl";
-            this.humiditylbl.Size = new System.Drawing.Size(25, 40);
+            this.humiditylbl.Size = new System.Drawing.Size(17, 26);
             this.humiditylbl.TabIndex = 3;
             this.humiditylbl.Text = "-";
             // 
@@ -152,10 +148,9 @@
             this.label4.BackColor = System.Drawing.Color.White;
             this.label4.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(80, 257);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(53, 167);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(104, 40);
+            this.label4.Size = new System.Drawing.Size(70, 26);
             this.label4.TabIndex = 4;
             this.label4.Text = "CO2";
             // 
@@ -165,10 +160,9 @@
             this.co2lbl.BackColor = System.Drawing.Color.White;
             this.co2lbl.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.co2lbl.ForeColor = System.Drawing.Color.Black;
-            this.co2lbl.Location = new System.Drawing.Point(418, 257);
-            this.co2lbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.co2lbl.Location = new System.Drawing.Point(279, 167);
             this.co2lbl.Name = "co2lbl";
-            this.co2lbl.Size = new System.Drawing.Size(25, 40);
+            this.co2lbl.Size = new System.Drawing.Size(17, 26);
             this.co2lbl.TabIndex = 5;
             this.co2lbl.Text = "-";
             // 
@@ -178,10 +172,9 @@
             this.label6.BackColor = System.Drawing.Color.White;
             this.label6.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(80, 328);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(53, 213);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(106, 40);
+            this.label6.Size = new System.Drawing.Size(71, 26);
             this.label6.TabIndex = 6;
             this.label6.Text = "VOC";
             // 
@@ -191,10 +184,9 @@
             this.tvoclbl.BackColor = System.Drawing.Color.White;
             this.tvoclbl.Font = new System.Drawing.Font("Copperplate Gothic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tvoclbl.ForeColor = System.Drawing.Color.Black;
-            this.tvoclbl.Location = new System.Drawing.Point(418, 328);
-            this.tvoclbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.tvoclbl.Location = new System.Drawing.Point(279, 213);
             this.tvoclbl.Name = "tvoclbl";
-            this.tvoclbl.Size = new System.Drawing.Size(25, 40);
+            this.tvoclbl.Size = new System.Drawing.Size(17, 26);
             this.tvoclbl.TabIndex = 7;
             this.tvoclbl.Text = "-";
             // 
@@ -204,10 +196,9 @@
             this.lblReading.BackColor = System.Drawing.Color.White;
             this.lblReading.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblReading.ForeColor = System.Drawing.Color.Black;
-            this.lblReading.Location = new System.Drawing.Point(590, 892);
-            this.lblReading.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblReading.Location = new System.Drawing.Point(393, 580);
             this.lblReading.Name = "lblReading";
-            this.lblReading.Size = new System.Drawing.Size(105, 26);
+            this.lblReading.Size = new System.Drawing.Size(69, 18);
             this.lblReading.TabIndex = 8;
             this.lblReading.Text = "label1";
             this.lblReading.Visible = false;
@@ -218,10 +209,9 @@
             this.checklbl.BackColor = System.Drawing.Color.White;
             this.checklbl.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checklbl.ForeColor = System.Drawing.Color.Black;
-            this.checklbl.Location = new System.Drawing.Point(590, 825);
-            this.checklbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.checklbl.Location = new System.Drawing.Point(393, 536);
             this.checklbl.Name = "checklbl";
-            this.checklbl.Size = new System.Drawing.Size(105, 26);
+            this.checklbl.Size = new System.Drawing.Size(69, 18);
             this.checklbl.TabIndex = 9;
             this.checklbl.Text = "label1";
             this.checklbl.Visible = false;
@@ -232,10 +222,9 @@
             this.label1.BackColor = System.Drawing.Color.White;
             this.label1.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(590, 857);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(393, 557);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(336, 26);
+            this.label1.Size = new System.Drawing.Size(223, 18);
             this.label1.TabIndex = 10;
             this.label1.Text = "Sum of the parameters: ";
             this.label1.Visible = false;
@@ -251,10 +240,9 @@
             "Humidity",
             "CO2",
             "VOC"});
-            this.thresholdcmbx.Location = new System.Drawing.Point(22, 80);
-            this.thresholdcmbx.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.thresholdcmbx.Location = new System.Drawing.Point(21, 52);
             this.thresholdcmbx.Name = "thresholdcmbx";
-            this.thresholdcmbx.Size = new System.Drawing.Size(180, 28);
+            this.thresholdcmbx.Size = new System.Drawing.Size(121, 21);
             this.thresholdcmbx.TabIndex = 11;
             // 
             // thresholdtbx
@@ -263,10 +251,10 @@
             this.thresholdtbx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.thresholdtbx.Font = new System.Drawing.Font("Lucida Console", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.thresholdtbx.ForeColor = System.Drawing.Color.Black;
-            this.thresholdtbx.Location = new System.Drawing.Point(345, 80);
+            this.thresholdtbx.Location = new System.Drawing.Point(241, 52);
             this.thresholdtbx.Margin = new System.Windows.Forms.Padding(0);
             this.thresholdtbx.Name = "thresholdtbx";
-            this.thresholdtbx.Size = new System.Drawing.Size(180, 27);
+            this.thresholdtbx.Size = new System.Drawing.Size(121, 20);
             this.thresholdtbx.TabIndex = 12;
             // 
             // label3
@@ -275,10 +263,9 @@
             this.label3.BackColor = System.Drawing.Color.White;
             this.label3.Font = new System.Drawing.Font("Lucida Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(18, 26);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(18, 17);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(227, 27);
+            this.label3.Size = new System.Drawing.Size(143, 18);
             this.label3.TabIndex = 13;
             this.label3.Text = "Select parameter: ";
             // 
@@ -288,10 +275,9 @@
             this.label5.BackColor = System.Drawing.Color.White;
             this.label5.Font = new System.Drawing.Font("Lucida Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(351, 26);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(245, 17);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(184, 27);
+            this.label5.Size = new System.Drawing.Size(117, 18);
             this.label5.TabIndex = 14;
             this.label5.Text = "Set threshold: ";
             // 
@@ -302,10 +288,9 @@
             this.thresholdbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.thresholdbtn.Font = new System.Drawing.Font("Lucida Console", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.thresholdbtn.ForeColor = System.Drawing.Color.White;
-            this.thresholdbtn.Location = new System.Drawing.Point(171, 174);
-            this.thresholdbtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.thresholdbtn.Location = new System.Drawing.Point(133, 113);
             this.thresholdbtn.Name = "thresholdbtn";
-            this.thresholdbtn.Size = new System.Drawing.Size(198, 48);
+            this.thresholdbtn.Size = new System.Drawing.Size(132, 31);
             this.thresholdbtn.TabIndex = 15;
             this.thresholdbtn.Text = "Set Limit";
             this.thresholdbtn.UseVisualStyleBackColor = false;
@@ -318,10 +303,9 @@
             this.btnVentilation.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVentilation.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVentilation.ForeColor = System.Drawing.Color.White;
-            this.btnVentilation.Location = new System.Drawing.Point(154, 1008);
-            this.btnVentilation.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnVentilation.Location = new System.Drawing.Point(103, 655);
             this.btnVentilation.Name = "btnVentilation";
-            this.btnVentilation.Size = new System.Drawing.Size(230, 77);
+            this.btnVentilation.Size = new System.Drawing.Size(153, 50);
             this.btnVentilation.TabIndex = 16;
             this.btnVentilation.Text = "Ventilation";
             this.btnVentilation.UseVisualStyleBackColor = false;
@@ -332,9 +316,8 @@
             this.pictureBox1.BackColor = System.Drawing.Color.DimGray;
             this.pictureBox1.Image = global::VentilationBox.Properties.Resources._5e754338_5820_4033_b84a_60e4cb5b1073_200x200;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(90, 77);
+            this.pictureBox1.Size = new System.Drawing.Size(60, 50);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
@@ -342,10 +325,9 @@
             // lblTopBar
             // 
             this.lblTopBar.BackColor = System.Drawing.Color.DimGray;
-            this.lblTopBar.Location = new System.Drawing.Point(84, 0);
-            this.lblTopBar.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTopBar.Location = new System.Drawing.Point(56, 0);
             this.lblTopBar.Name = "lblTopBar";
-            this.lblTopBar.Size = new System.Drawing.Size(1696, 77);
+            this.lblTopBar.Size = new System.Drawing.Size(1131, 50);
             this.lblTopBar.TabIndex = 19;
             this.lblTopBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label7_MouseDown);
             // 
@@ -356,10 +338,10 @@
             this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClose.ForeColor = System.Drawing.Color.White;
-            this.btnClose.Location = new System.Drawing.Point(488, 0);
+            this.btnClose.Location = new System.Drawing.Point(358, 0);
             this.btnClose.Margin = new System.Windows.Forms.Padding(0);
             this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(75, 77);
+            this.btnClose.Size = new System.Drawing.Size(50, 50);
             this.btnClose.TabIndex = 20;
             this.btnClose.Text = "X";
             this.btnClose.UseVisualStyleBackColor = false;
@@ -371,10 +353,9 @@
             this.label8.BackColor = System.Drawing.Color.White;
             this.label8.Font = new System.Drawing.Font("Lucida Console", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
-            this.label8.Location = new System.Drawing.Point(54, 172);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Location = new System.Drawing.Point(36, 112);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(55, 24);
+            this.label8.Size = new System.Drawing.Size(41, 16);
             this.label8.TabIndex = 25;
             this.label8.Text = "VOC";
             // 
@@ -384,10 +365,9 @@
             this.label9.BackColor = System.Drawing.Color.White;
             this.label9.Font = new System.Drawing.Font("Lucida Console", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(54, 131);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Location = new System.Drawing.Point(36, 85);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(55, 24);
+            this.label9.Size = new System.Drawing.Size(41, 16);
             this.label9.TabIndex = 24;
             this.label9.Text = "CO2";
             // 
@@ -397,10 +377,9 @@
             this.label10.BackColor = System.Drawing.Color.White;
             this.label10.Font = new System.Drawing.Font("Lucida Console", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.Black;
-            this.label10.Location = new System.Drawing.Point(54, 88);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Location = new System.Drawing.Point(36, 57);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(130, 24);
+            this.label10.Size = new System.Drawing.Size(96, 16);
             this.label10.TabIndex = 23;
             this.label10.Text = "Humidity";
             // 
@@ -410,10 +389,9 @@
             this.label11.BackColor = System.Drawing.Color.White;
             this.label11.Font = new System.Drawing.Font("Lucida Console", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Black;
-            this.label11.Location = new System.Drawing.Point(48, 43);
-            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label11.Location = new System.Drawing.Point(32, 28);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(175, 24);
+            this.label11.Size = new System.Drawing.Size(129, 16);
             this.label11.TabIndex = 22;
             this.label11.Text = "Temperature";
             // 
@@ -423,10 +401,9 @@
             this.lblCurrentTvocLim.BackColor = System.Drawing.Color.White;
             this.lblCurrentTvocLim.Font = new System.Drawing.Font("Lucida Console", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCurrentTvocLim.ForeColor = System.Drawing.Color.Black;
-            this.lblCurrentTvocLim.Location = new System.Drawing.Point(406, 174);
-            this.lblCurrentTvocLim.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCurrentTvocLim.Location = new System.Drawing.Point(271, 113);
             this.lblCurrentTvocLim.Name = "lblCurrentTvocLim";
-            this.lblCurrentTvocLim.Size = new System.Drawing.Size(70, 23);
+            this.lblCurrentTvocLim.Size = new System.Drawing.Size(47, 15);
             this.lblCurrentTvocLim.TabIndex = 25;
             this.lblCurrentTvocLim.Text = "7.95";
             // 
@@ -436,10 +413,9 @@
             this.lblCurrentCoLim.BackColor = System.Drawing.Color.White;
             this.lblCurrentCoLim.Font = new System.Drawing.Font("Lucida Console", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCurrentCoLim.ForeColor = System.Drawing.Color.Black;
-            this.lblCurrentCoLim.Location = new System.Drawing.Point(406, 132);
-            this.lblCurrentCoLim.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCurrentCoLim.Location = new System.Drawing.Point(271, 86);
             this.lblCurrentCoLim.Name = "lblCurrentCoLim";
-            this.lblCurrentCoLim.Size = new System.Drawing.Size(70, 23);
+            this.lblCurrentCoLim.Size = new System.Drawing.Size(47, 15);
             this.lblCurrentCoLim.TabIndex = 24;
             this.lblCurrentCoLim.Text = "5.95";
             // 
@@ -449,10 +425,9 @@
             this.lblCurrentHumLim.BackColor = System.Drawing.Color.White;
             this.lblCurrentHumLim.Font = new System.Drawing.Font("Lucida Console", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCurrentHumLim.ForeColor = System.Drawing.Color.Black;
-            this.lblCurrentHumLim.Location = new System.Drawing.Point(406, 89);
-            this.lblCurrentHumLim.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCurrentHumLim.Location = new System.Drawing.Point(271, 58);
             this.lblCurrentHumLim.Name = "lblCurrentHumLim";
-            this.lblCurrentHumLim.Size = new System.Drawing.Size(70, 23);
+            this.lblCurrentHumLim.Size = new System.Drawing.Size(47, 15);
             this.lblCurrentHumLim.TabIndex = 23;
             this.lblCurrentHumLim.Text = "3.95";
             // 
@@ -462,10 +437,9 @@
             this.lblCurrentTempLim.BackColor = System.Drawing.Color.White;
             this.lblCurrentTempLim.Font = new System.Drawing.Font("Lucida Console", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCurrentTempLim.ForeColor = System.Drawing.Color.Black;
-            this.lblCurrentTempLim.Location = new System.Drawing.Point(406, 45);
-            this.lblCurrentTempLim.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCurrentTempLim.Location = new System.Drawing.Point(271, 29);
             this.lblCurrentTempLim.Name = "lblCurrentTempLim";
-            this.lblCurrentTempLim.Size = new System.Drawing.Size(70, 23);
+            this.lblCurrentTempLim.Size = new System.Drawing.Size(47, 15);
             this.lblCurrentTempLim.TabIndex = 22;
             this.lblCurrentTempLim.Text = "1.95";
             // 
@@ -476,10 +450,9 @@
             this.btmCurrentLim.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btmCurrentLim.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btmCurrentLim.ForeColor = System.Drawing.Color.White;
-            this.btmCurrentLim.Location = new System.Drawing.Point(282, 438);
-            this.btmCurrentLim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btmCurrentLim.Location = new System.Drawing.Point(188, 285);
             this.btmCurrentLim.Name = "btmCurrentLim";
-            this.btmCurrentLim.Size = new System.Drawing.Size(280, 77);
+            this.btmCurrentLim.Size = new System.Drawing.Size(229, 50);
             this.btmCurrentLim.TabIndex = 22;
             this.btmCurrentLim.Text = "See Current Limits";
             this.btmCurrentLim.UseVisualStyleBackColor = false;
@@ -492,10 +465,9 @@
             this.btmModLim.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btmModLim.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btmModLim.ForeColor = System.Drawing.Color.White;
-            this.btmModLim.Location = new System.Drawing.Point(0, 438);
-            this.btmModLim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btmModLim.Location = new System.Drawing.Point(0, 285);
             this.btmModLim.Name = "btmModLim";
-            this.btmModLim.Size = new System.Drawing.Size(282, 77);
+            this.btmModLim.Size = new System.Drawing.Size(188, 50);
             this.btmModLim.TabIndex = 23;
             this.btmModLim.Text = "Modify Limits";
             this.btmModLim.UseVisualStyleBackColor = false;
@@ -509,10 +481,9 @@
             this.pnlModLim.Controls.Add(this.thresholdbtn);
             this.pnlModLim.Controls.Add(this.thresholdtbx);
             this.pnlModLim.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.pnlModLim.Location = new System.Drawing.Point(0, 514);
-            this.pnlModLim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pnlModLim.Location = new System.Drawing.Point(0, 334);
             this.pnlModLim.Name = "pnlModLim";
-            this.pnlModLim.Size = new System.Drawing.Size(562, 252);
+            this.pnlModLim.Size = new System.Drawing.Size(417, 164);
             this.pnlModLim.TabIndex = 24;
             // 
             // pnlCurrentLim
@@ -526,10 +497,9 @@
             this.pnlCurrentLim.Controls.Add(this.lblCurrentCoLim);
             this.pnlCurrentLim.Controls.Add(this.lblCurrentHumLim);
             this.pnlCurrentLim.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.pnlCurrentLim.Location = new System.Drawing.Point(0, 514);
-            this.pnlCurrentLim.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pnlCurrentLim.Location = new System.Drawing.Point(0, 334);
             this.pnlCurrentLim.Name = "pnlCurrentLim";
-            this.pnlCurrentLim.Size = new System.Drawing.Size(562, 252);
+            this.pnlCurrentLim.Size = new System.Drawing.Size(375, 164);
             this.pnlCurrentLim.TabIndex = 25;
             // 
             // lbl7
@@ -538,10 +508,9 @@
             this.lbl7.BackColor = System.Drawing.Color.White;
             this.lbl7.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl7.ForeColor = System.Drawing.Color.Black;
-            this.lbl7.Location = new System.Drawing.Point(20, 794);
-            this.lbl7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl7.Location = new System.Drawing.Point(13, 516);
             this.lbl7.Name = "lbl7";
-            this.lbl7.Size = new System.Drawing.Size(293, 26);
+            this.lbl7.Size = new System.Drawing.Size(195, 18);
             this.lbl7.TabIndex = 26;
             this.lbl7.Text = "North Window No. 1:";
             // 
@@ -551,10 +520,9 @@
             this.lbl8.BackColor = System.Drawing.Color.White;
             this.lbl8.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl8.ForeColor = System.Drawing.Color.Black;
-            this.lbl8.Location = new System.Drawing.Point(14, 874);
-            this.lbl8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl8.Location = new System.Drawing.Point(9, 568);
             this.lbl8.Name = "lbl8";
-            this.lbl8.Size = new System.Drawing.Size(293, 26);
+            this.lbl8.Size = new System.Drawing.Size(195, 18);
             this.lbl8.TabIndex = 27;
             this.lbl8.Text = "North Window No. 2:";
             // 
@@ -564,10 +532,9 @@
             this.lbl9.BackColor = System.Drawing.Color.White;
             this.lbl9.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl9.ForeColor = System.Drawing.Color.Black;
-            this.lbl9.Location = new System.Drawing.Point(321, 794);
-            this.lbl9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl9.Location = new System.Drawing.Point(214, 516);
             this.lbl9.Name = "lbl9";
-            this.lbl9.Size = new System.Drawing.Size(205, 26);
+            this.lbl9.Size = new System.Drawing.Size(136, 18);
             this.lbl9.TabIndex = 28;
             this.lbl9.Text = "West Window:";
             // 
@@ -577,10 +544,9 @@
             this.lbl10.BackColor = System.Drawing.Color.White;
             this.lbl10.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl10.ForeColor = System.Drawing.Color.Black;
-            this.lbl10.Location = new System.Drawing.Point(308, 874);
-            this.lbl10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl10.Location = new System.Drawing.Point(205, 568);
             this.lbl10.Name = "lbl10";
-            this.lbl10.Size = new System.Drawing.Size(259, 26);
+            this.lbl10.Size = new System.Drawing.Size(170, 18);
             this.lbl10.TabIndex = 29;
             this.lbl10.Text = "AC Power Output:";
             // 
@@ -590,10 +556,9 @@
             this.lblWindow1.BackColor = System.Drawing.Color.White;
             this.lblWindow1.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWindow1.ForeColor = System.Drawing.Color.Black;
-            this.lblWindow1.Location = new System.Drawing.Point(20, 822);
-            this.lblWindow1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblWindow1.Location = new System.Drawing.Point(13, 534);
             this.lblWindow1.Name = "lblWindow1";
-            this.lblWindow1.Size = new System.Drawing.Size(110, 26);
+            this.lblWindow1.Size = new System.Drawing.Size(72, 18);
             this.lblWindow1.TabIndex = 30;
             this.lblWindow1.Text = "Closed";
             // 
@@ -603,10 +568,9 @@
             this.lblWindow2.BackColor = System.Drawing.Color.White;
             this.lblWindow2.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWindow2.ForeColor = System.Drawing.Color.Black;
-            this.lblWindow2.Location = new System.Drawing.Point(14, 902);
-            this.lblWindow2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblWindow2.Location = new System.Drawing.Point(9, 586);
             this.lblWindow2.Name = "lblWindow2";
-            this.lblWindow2.Size = new System.Drawing.Size(110, 26);
+            this.lblWindow2.Size = new System.Drawing.Size(72, 18);
             this.lblWindow2.TabIndex = 31;
             this.lblWindow2.Text = "Closed";
             // 
@@ -616,10 +580,9 @@
             this.lblWindow3.BackColor = System.Drawing.Color.White;
             this.lblWindow3.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWindow3.ForeColor = System.Drawing.Color.Black;
-            this.lblWindow3.Location = new System.Drawing.Point(321, 822);
-            this.lblWindow3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblWindow3.Location = new System.Drawing.Point(214, 534);
             this.lblWindow3.Name = "lblWindow3";
-            this.lblWindow3.Size = new System.Drawing.Size(110, 26);
+            this.lblWindow3.Size = new System.Drawing.Size(72, 18);
             this.lblWindow3.TabIndex = 32;
             this.lblWindow3.Text = "Closed";
             // 
@@ -629,10 +592,9 @@
             this.lblAcOutput.BackColor = System.Drawing.Color.White;
             this.lblAcOutput.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAcOutput.ForeColor = System.Drawing.Color.Black;
-            this.lblAcOutput.Location = new System.Drawing.Point(308, 902);
-            this.lblAcOutput.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblAcOutput.Location = new System.Drawing.Point(205, 586);
             this.lblAcOutput.Name = "lblAcOutput";
-            this.lblAcOutput.Size = new System.Drawing.Size(50, 26);
+            this.lblAcOutput.Size = new System.Drawing.Size(33, 18);
             this.lblAcOutput.TabIndex = 33;
             this.lblAcOutput.Text = "0%";
             // 
@@ -644,10 +606,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(560, 1097);
+            this.ClientSize = new System.Drawing.Size(418, 713);
             this.Controls.Add(this.lblAcOutput);
             this.Controls.Add(this.lblWindow3);
             this.Controls.Add(this.lblWindow2);
@@ -676,7 +638,6 @@
             this.Controls.Add(this.lbl1);
             this.Controls.Add(this.pnlCurrentLim);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
