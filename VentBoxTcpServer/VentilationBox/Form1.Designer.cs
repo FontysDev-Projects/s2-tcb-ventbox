@@ -303,7 +303,7 @@
             this.btnVentilation.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVentilation.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVentilation.ForeColor = System.Drawing.Color.White;
-            this.btnVentilation.Location = new System.Drawing.Point(103, 655);
+            this.btnVentilation.Location = new System.Drawing.Point(121, 632);
             this.btnVentilation.Name = "btnVentilation";
             this.btnVentilation.Size = new System.Drawing.Size(153, 50);
             this.btnVentilation.TabIndex = 16;
@@ -609,7 +609,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(418, 713);
+            this.ClientSize = new System.Drawing.Size(405, 713);
             this.Controls.Add(this.lblAcOutput);
             this.Controls.Add(this.lblWindow3);
             this.Controls.Add(this.lblWindow2);

@@ -145,6 +145,7 @@
             this.lblTopBar.Name = "lblTopBar";
             this.lblTopBar.Size = new System.Drawing.Size(1131, 50);
             this.lblTopBar.TabIndex = 22;
+            this.lblTopBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label7_MouseDown);
             // 
             // pictureBox1
             // 

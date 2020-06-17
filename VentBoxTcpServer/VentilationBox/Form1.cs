@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Threading;
 
@@ -18,11 +11,12 @@ namespace VentilationBox
     {
         //The window for the ventilation and the algorithm.
         Ventilation ventilation;
-
+        // HTTPClient is an interface class used to connect to obshtiq server 
+        HTTPClient HTTPClient = new HTTPClient();
         //String where the message received by the ESP will be stored
         public static String message = "";
         //filepath, boolean and doubles for values and valLimits
-        string filePath = @"D:\Programming\Semester 2\Week 1-6\Project\semester-2-project\VentBoxTcpServer\ventilationBoxLogs.txt";
+        string filePath = @"..\..\..\..\VentBoxTcpServer\ventilationBoxLogs.txt";
         public static double tempValue, humValue, coValue, tvocValue, tempLim = 1.95, humLim = 3.95, coLim = 5.95, tvocLim = 750, sumReadings = 0;
         bool alert = false;
         //TEMPORARY DOUBLES
@@ -73,17 +67,25 @@ namespace VentilationBox
             File.AppendAllText(filePath, $"Start time: {DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss")}" + Environment.NewLine + Environment.NewLine);
 
             this.FormBorderStyle = FormBorderStyle.None;
-            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+            Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
 
             //Starting the server for the wireless communication
             Thread t = new Thread(delegate ()
             {
                 // replace the IP with your system IP Address...
-                Server myserver = new Server("172.27.208.139", 8888, message);
+                Server myserver = new Server("172.27.208.141", 8888, message);
             });
             t.Start();
+
+            // Starts the HttpClient
+            this.HTTPClient = new HTTPClient();
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.HTTPClient.Close();
+            this.ventilation.Close();
+        }
 
         /// <summary>
         /// Updates the sum of all sensor-read values
@@ -293,7 +295,7 @@ namespace VentilationBox
                 default:
                     break;
             }
-           
+
 
             return parameterDoubleValue;
         }
@@ -379,9 +381,10 @@ namespace VentilationBox
             }
         }
 
-        private void timer2_Tick(object sender, EventArgs e)
+        private async void timer2_Tick(object sender, EventArgs e)
         {
             logData(); updateSum();
+            await HTTPClient.Send(tempValue.ToString(), humValue.ToString(), tvocValue.ToString(), coValue.ToString());
         }
 
         String parameterThresholdName()
@@ -419,24 +422,23 @@ namespace VentilationBox
 
         private void thresholdbtn_Click(object sender, EventArgs e)
         {
-            serialPort1.Write(thresholdToSend());
             switch (thresholdcmbx.SelectedIndex)
             {
                 case 0:
-                    lblCurrentTempLim.Text = thresholdtbx.Text;
-                    tempLim = Convert.ToDouble(lblCurrentTempLim.Text);
+                    tempLim = Convert.ToDouble(thresholdtbx.Text);
+                    lblCurrentTempLim.Text = tempLim.ToString();
                     break;
                 case 1:
-                    lblCurrentHumLim.Text = thresholdtbx.Text;
-                    humLim = Convert.ToDouble(lblCurrentTempLim.Text);
+                    humLim = Convert.ToDouble(thresholdtbx.Text);
+                    lblCurrentHumLim.Text = humLim.ToString();
                     break;
                 case 2:
-                    lblCurrentCoLim.Text = thresholdtbx.Text;
-                    coLim = Convert.ToDouble(lblCurrentTempLim.Text);
+                    coLim = Convert.ToDouble(thresholdtbx.Text);
+                    lblCurrentCoLim.Text = coLim.ToString();
                     break;
                 case 3:
-                    lblCurrentTvocLim.Text = thresholdtbx.Text;
-                    tvocLim = Convert.ToDouble(lblCurrentTempLim.Text);
+                    tvocLim = Convert.ToDouble(thresholdtbx.Text);
+                    lblCurrentTvocLim.Text = tvocLim.ToString();
                     break;
                 default:
                     break;
@@ -446,10 +448,7 @@ namespace VentilationBox
         private void btnVentilation_Click(object sender, EventArgs e)
         {
             ventilation = new Ventilation();
-            if (ventilation.ShowDialog() == DialogResult.OK)
-            {
-
-            }
+            ventilation.Show();
         }
 
         private void btnClose_Click(object sender, EventArgs e)

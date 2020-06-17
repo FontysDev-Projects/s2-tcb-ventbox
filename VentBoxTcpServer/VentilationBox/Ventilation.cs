@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
@@ -27,6 +23,8 @@ namespace VentilationBox
         double temperature = 10;
         double targetTemperature = 10;
         List<DateTime> TimeList = new List<DateTime>();
+
+        delegate void UpdateChart();
 
         //rounded corners
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
@@ -66,7 +64,7 @@ namespace VentilationBox
             InitializeComponent();
             //
             this.FormBorderStyle = FormBorderStyle.None;
-            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+            Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
             this.chart1.ChartAreas[0].AxisX.LabelStyle.Format = "hh:mm:ss";
             // this sets the type of the X-Axis values
             chart1.Series[0].XValueType = ChartValueType.DateTime;
@@ -91,8 +89,13 @@ namespace VentilationBox
             return temperature;
         }
 
+        private async void timer1_Tick(object sender, EventArgs e)
+        {
+            var UpdateChart = new UpdateChart(UpDateChart);
+            await Task.Run(() => this.Invoke(UpdateChart));
+        }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void UpDateChart()
         {
             DateTime start = DateTime.Now.AddSeconds(-5);
             DateTime end = DateTime.Now.AddSeconds(5);
@@ -149,11 +152,9 @@ namespace VentilationBox
             chart1.Series[0].Points.AddXY(now.ToOADate(), value);
             chart1.ChartAreas[0].AxisX.Minimum = start.ToOADate();
             chart1.ChartAreas[0].AxisX.Maximum = end.ToOADate();
-            Console.WriteLine(start.ToOADate().ToString());
-            Console.WriteLine(now.ToOADate().ToString());
-            Console.WriteLine(end.ToOADate().ToString());
-
-
+            //Console.WriteLine(start.ToOADate().ToString());
+            //Console.WriteLine(now.ToOADate().ToString());
+            //Console.WriteLine(end.ToOADate().ToString());
 
             if (chart1.Series[0].Points.Count > 100)
             {
