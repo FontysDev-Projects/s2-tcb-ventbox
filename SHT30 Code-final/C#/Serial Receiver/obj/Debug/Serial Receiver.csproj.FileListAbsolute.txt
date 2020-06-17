@@ -1,0 +1,7 @@
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\bin\Debug\Serial Receiver.exe.config
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\bin\Debug\Serial Receiver.exe
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\bin\Debug\Serial Receiver.pdb
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\obj\Debug\Serial Receiver.csprojAssemblyReference.cache
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\obj\Debug\Serial Receiver.csproj.CoreCompileInputs.cache
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\obj\Debug\Serial Receiver.exe
+D:\Programming\Semester 2\Week 13-18\Project\Serial Receiver\Serial Receiver\obj\Debug\Serial Receiver.pdb
