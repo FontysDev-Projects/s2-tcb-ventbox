@@ -346,7 +346,7 @@ namespace VentilationBox
                 showParameter(getParameterName(command), getParameterValue(command));
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private async void timer1_Tick(object sender, EventArgs e)
         {
             // $#te-data-#hu-data-#co-data-#vo-data-%
             // te-data-
@@ -379,12 +379,12 @@ namespace VentilationBox
                 updateSum();
                 resetLogTimer(timer2);
             }
+            await HTTPClient.Send(tempValue.ToString(), humValue.ToString(), tvocValue.ToString(), coValue.ToString());
         }
 
-        private async void timer2_Tick(object sender, EventArgs e)
+        private void timer2_Tick(object sender, EventArgs e)
         {
             logData(); updateSum();
-            await HTTPClient.Send(tempValue.ToString(), humValue.ToString(), tvocValue.ToString(), coValue.ToString());
         }
 
         String parameterThresholdName()

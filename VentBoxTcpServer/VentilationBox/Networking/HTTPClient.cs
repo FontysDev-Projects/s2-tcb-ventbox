@@ -9,16 +9,19 @@ namespace VentilationBox
     public class HTTPClient
     {
         readonly HttpClient client;
-        readonly string IPAddress;
+        readonly string ID;
         static string msgPrototype = "#t;c;h;v;i$";
-        string URI;
+        StringBuilder Prefix;
+        //string URI;
 
 
         public HTTPClient(string URI = "87.120.74.138:42069")
         {
+            //this.IPAddress = Dns.GetHostEntry(Dns.GetHostName()).AddressList[0].ToString();
             this.client = new HttpClient();
-            this.IPAddress = Dns.GetHostEntry(Dns.GetHostName()).AddressList[0].ToString();
-            this.URI = URI;
+            this.ID = "House1";
+            this.Prefix = new StringBuilder("http://");
+            this.Prefix.Append(URI);
         }
 
 
@@ -28,8 +31,8 @@ namespace VentilationBox
             try
             {
                 var content = new StringContent(Data, Encoding.UTF8, "text/plain");
-                HttpResponseMessage response = await client.PostAsync("http://localhost:80", content);
-                //HttpResponseMessage response = await client.PostAsync($"http://{this.URI}", content);
+                //HttpResponseMessage response = await client.PostAsync("http://87.120.74.138:42069", content);
+                HttpResponseMessage response = await client.PostAsync(this.Prefix.ToString(), content);
                 response.EnsureSuccessStatusCode();
                 responseBody = await response.Content.ReadAsStringAsync();
             }
@@ -38,6 +41,8 @@ namespace VentilationBox
                 Console.WriteLine("\nException Caught!");
                 Console.WriteLine("Message :{0} ", e.Message);
             }
+
+            Console.WriteLine(responseBody);
             return responseBody;
         }
 
@@ -63,7 +68,7 @@ namespace VentilationBox
                         msgToSend += Voc;
                         break;
                     case 'i':
-                        msgToSend += IPAddress;
+                        msgToSend += ID;
                         break;
                     default:
                         msgToSend += c;

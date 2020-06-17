@@ -13405,3 +13405,7393 @@ Temperature: 23.14 °C Humidity: 59.28 % CO2: - VOC: -
 Wednesday, 17 June 2020 11:32:22
 Temperature: 23.14 °C Humidity: 59.28 % CO2: - VOC: -
 
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:03:34
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:03:39
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:03:44
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:03:49
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:03:54
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:03:59
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:04
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:09
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:14
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:19
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:24
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:29
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:34
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:39
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:44
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:49
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:54
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:04:59
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:05:04
+Temperature: - Humidity: - CO2: - VOC: -
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:09:24
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:09:29
+Temperature: - Humidity: - CO2: - VOC: -
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:11:20
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:25
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:30
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:35
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:40
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:45
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:50
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:11:55
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:00
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:05
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:10
+Temperature: - Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:14
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:15
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:16
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:17
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:18
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:19
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:20
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:21
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:22
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:23
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:24
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:25
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:26
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:27
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:12:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:12:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:03
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:08
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:13
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:18
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:13:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:03
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:08
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:13
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:18
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:14:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:03
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:08
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:13
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:18
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:15:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:03
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:08
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:13
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:18
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:16:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:03
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:08
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:13
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:18
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:28
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:33
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:38
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:43
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:48
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:17:58
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:18:05
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:18:10
+Temperature: - Humidity: - CO2: - VOC: -
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:19:28
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:33
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:38
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:43
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:48
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:53
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:19:58
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:03
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:08
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:13
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:18
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:23
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:28
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:33
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:38
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:43
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:48
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:53
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:20:58
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:21:03
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:21:08
+Temperature: - Humidity: - CO2: - VOC: -
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:21:14
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:15
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:16
+Temperature: 69 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:17
+Temperature: 116 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:22
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:23
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:24
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:25
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:26
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:27
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:28
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:29
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:30
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:31
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:32
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:33
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:34
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:35
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:36
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:37
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:38
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:39
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:40
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:41
+Temperature: 130 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:44
+Temperature: 2 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:45
+Temperature: 3 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:46
+Temperature: 4 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:47
+Temperature: 5 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:48
+Temperature: 6 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:49
+Temperature: 7 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:50
+Temperature: 8 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:51
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:52
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:53
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:54
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:55
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:56
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:57
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:58
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:21:59
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:00
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:01
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:02
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:03
+Temperature: 9 °C Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:22:08
+Temperature: 0 °C Humidity: 3 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:09
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:10
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:11
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:12
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:13
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:14
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:15
+Temperature: 0 °C Humidity: 4 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:18
+Temperature: 2 °C Humidity: 1 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:20
+Temperature: 4 °C Humidity: 3 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:21
+Temperature: 4 °C Humidity: 5 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:22
+Temperature: 6 °C Humidity: 5 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:23
+Temperature: 6 °C Humidity: 7 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:24
+Temperature: 8 °C Humidity: 7 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:25
+Temperature: 8 °C Humidity: 9 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:26
+Temperature: 10 °C Humidity: 9 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:27
+Temperature: 10 °C Humidity: 11 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:28
+Temperature: 12 °C Humidity: 11 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:29
+Temperature: 12 °C Humidity: 11 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:30
+Temperature: 12 °C Humidity: 13 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:31
+Temperature: 14 °C Humidity: 13 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:32
+Temperature: 14 °C Humidity: 15 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:33
+Temperature: 16 °C Humidity: 15 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:34
+Temperature: 16 °C Humidity: 17 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:35
+Temperature: 18 °C Humidity: 17 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:36
+Temperature: 18 °C Humidity: 19 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:37
+Temperature: 20 °C Humidity: 19 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:38
+Temperature: 20 °C Humidity: 21 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:39
+Temperature: 22 °C Humidity: 21 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:40
+Temperature: 22 °C Humidity: 23 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:41
+Temperature: 24 °C Humidity: 23 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:42
+Temperature: 24 °C Humidity: 25 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:43
+Temperature: 26 °C Humidity: 25 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:44
+Temperature: 26 °C Humidity: 27 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:45
+Temperature: 28 °C Humidity: 27 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:46
+Temperature: 28 °C Humidity: 29 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:47
+Temperature: 30 °C Humidity: 29 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:48
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:49
+Temperature: 32 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:50
+Temperature: 32 °C Humidity: 33 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:51
+Temperature: 34 °C Humidity: 33 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:52
+Temperature: 34 °C Humidity: 35 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:53
+Temperature: 36 °C Humidity: 35 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:54
+Temperature: 36 °C Humidity: 37 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:55
+Temperature: 38 °C Humidity: 37 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:56
+Temperature: 38 °C Humidity: 39 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:57
+Temperature: 40 °C Humidity: 39 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:58
+Temperature: 40 °C Humidity: 41 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:22:59
+Temperature: 42 °C Humidity: 41 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:00
+Temperature: 42 °C Humidity: 43 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:01
+Temperature: 44 °C Humidity: 43 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:02
+Temperature: 44 °C Humidity: 45 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:03
+Temperature: 46 °C Humidity: 45 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:04
+Temperature: 46 °C Humidity: 47 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:05
+Temperature: 48 °C Humidity: 47 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:06
+Temperature: 48 °C Humidity: 49 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:07
+Temperature: 50 °C Humidity: 49 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:08
+Temperature: 50 °C Humidity: 51 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:09
+Temperature: 52 °C Humidity: 51 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:10
+Temperature: 52 °C Humidity: 53 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:11
+Temperature: 54 °C Humidity: 53 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:12
+Temperature: 54 °C Humidity: 55 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:13
+Temperature: 56 °C Humidity: 55 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:14
+Temperature: 56 °C Humidity: 55 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:15
+Temperature: 56 °C Humidity: 57 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:16
+Temperature: 58 °C Humidity: 57 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:17
+Temperature: 58 °C Humidity: 59 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:18
+Temperature: 60 °C Humidity: 59 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:19
+Temperature: 60 °C Humidity: 61 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:20
+Temperature: 62 °C Humidity: 61 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:21
+Temperature: 62 °C Humidity: 63 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:22
+Temperature: 64 °C Humidity: 63 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:23
+Temperature: 64 °C Humidity: 65 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:24
+Temperature: 66 °C Humidity: 65 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:25
+Temperature: 66 °C Humidity: 67 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:26
+Temperature: 68 °C Humidity: 67 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:27
+Temperature: 68 °C Humidity: 69 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:28
+Temperature: 70 °C Humidity: 69 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:29
+Temperature: 70 °C Humidity: 71 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:30
+Temperature: 72 °C Humidity: 71 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:31
+Temperature: 72 °C Humidity: 73 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:32
+Temperature: 74 °C Humidity: 73 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:33
+Temperature: 74 °C Humidity: 75 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:34
+Temperature: 76 °C Humidity: 75 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:35
+Temperature: 76 °C Humidity: 77 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:36
+Temperature: 78 °C Humidity: 77 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:37
+Temperature: 78 °C Humidity: 79 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:38
+Temperature: 80 °C Humidity: 79 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:39
+Temperature: 80 °C Humidity: 81 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:40
+Temperature: 82 °C Humidity: 81 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:41
+Temperature: 82 °C Humidity: 83 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:42
+Temperature: 84 °C Humidity: 83 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:43
+Temperature: 84 °C Humidity: 85 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:44
+Temperature: 86 °C Humidity: 85 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:45
+Temperature: 86 °C Humidity: 87 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:46
+Temperature: 88 °C Humidity: 87 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:47
+Temperature: 88 °C Humidity: 89 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:48
+Temperature: 90 °C Humidity: 89 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:49
+Temperature: 90 °C Humidity: 91 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:50
+Temperature: 92 °C Humidity: 91 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:51
+Temperature: 92 °C Humidity: 93 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:52
+Temperature: 94 °C Humidity: 93 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:53
+Temperature: 94 °C Humidity: 95 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:54
+Temperature: 96 °C Humidity: 95 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:55
+Temperature: 96 °C Humidity: 97 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:56
+Temperature: 98 °C Humidity: 97 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:57
+Temperature: 98 °C Humidity: 99 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:58
+Temperature: 98 °C Humidity: 30 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:23:59
+Temperature: 100 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:00
+Temperature: 100 °C Humidity: 101 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:01
+Temperature: 102 °C Humidity: 101 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:02
+Temperature: 102 °C Humidity: 103 % CO2: - VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:03
+Temperature: 102 °C Humidity: 103 % CO2: 1000 ppm VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:04
+Temperature: 102 °C Humidity: 105 % CO2: 1000 ppm VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:05
+Temperature: 106 °C Humidity: 105 % CO2: 1000 ppm VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:06
+Temperature: 106 °C Humidity: 107 % CO2: 1000 ppm VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:07
+Temperature: 108 °C Humidity: 107 % CO2: 1000 ppm VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:09
+Temperature: 110 °C Humidity: 107 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:10
+Temperature: 110 °C Humidity: 111 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:11
+Temperature: 112 °C Humidity: 111 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:12
+Temperature: 112 °C Humidity: 113 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:13
+Temperature: 114 °C Humidity: 113 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:14
+Temperature: 114 °C Humidity: 115 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:15
+Temperature: 116 °C Humidity: 115 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:16
+Temperature: 116 °C Humidity: 117 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:17
+Temperature: 118 °C Humidity: 117 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:18
+Temperature: 118 °C Humidity: 119 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:19
+Temperature: 120 °C Humidity: 119 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:20
+Temperature: 120 °C Humidity: 121 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:21
+Temperature: 122 °C Humidity: 121 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:22
+Temperature: 122 °C Humidity: 123 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:23
+Temperature: 124 °C Humidity: 123 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:24
+Temperature: 124 °C Humidity: 125 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:25
+Temperature: 126 °C Humidity: 125 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:26
+Temperature: 126 °C Humidity: 127 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:27
+Temperature: 128 °C Humidity: 127 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:28
+Temperature: 128 °C Humidity: 129 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:29
+Temperature: 130 °C Humidity: 129 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:30
+Temperature: 130 °C Humidity: 131 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:31
+Temperature: 132 °C Humidity: 131 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:32
+Temperature: 132 °C Humidity: 133 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:33
+Temperature: 134 °C Humidity: 133 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:34
+Temperature: 134 °C Humidity: 135 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:35
+Temperature: 136 °C Humidity: 135 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:36
+Temperature: 136 °C Humidity: 137 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:37
+Temperature: 138 °C Humidity: 137 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:38
+Temperature: 138 °C Humidity: 139 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:39
+Temperature: 140 °C Humidity: 139 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:40
+Temperature: 140 °C Humidity: 141 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:41
+Temperature: 142 °C Humidity: 141 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:42
+Temperature: 142 °C Humidity: 143 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:43
+Temperature: 142 °C Humidity: 143 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:44
+Temperature: 144 °C Humidity: 143 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:45
+Temperature: 144 °C Humidity: 145 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:46
+Temperature: 146 °C Humidity: 145 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:47
+Temperature: 146 °C Humidity: 147 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:48
+Temperature: 148 °C Humidity: 147 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:49
+Temperature: 148 °C Humidity: 149 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:50
+Temperature: 150 °C Humidity: 149 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:51
+Temperature: 150 °C Humidity: 151 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:52
+Temperature: 152 °C Humidity: 151 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:53
+Temperature: 152 °C Humidity: 153 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:54
+Temperature: 154 °C Humidity: 153 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:55
+Temperature: 154 °C Humidity: 155 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:56
+Temperature: 156 °C Humidity: 155 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:57
+Temperature: 156 °C Humidity: 157 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:58
+Temperature: 158 °C Humidity: 157 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:24:59
+Temperature: 158 °C Humidity: 159 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:00
+Temperature: 160 °C Humidity: 159 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:01
+Temperature: 160 °C Humidity: 161 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:02
+Temperature: 162 °C Humidity: 161 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:03
+Temperature: 162 °C Humidity: 163 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:04
+Temperature: 164 °C Humidity: 163 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:05
+Temperature: 164 °C Humidity: 165 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:06
+Temperature: 166 °C Humidity: 165 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:07
+Temperature: 166 °C Humidity: 167 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:08
+Temperature: 168 °C Humidity: 167 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:09
+Temperature: 168 °C Humidity: 169 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:10
+Temperature: 170 °C Humidity: 169 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:11
+Temperature: 170 °C Humidity: 171 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:12
+Temperature: 172 °C Humidity: 171 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:13
+Temperature: 172 °C Humidity: 173 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:14
+Temperature: 174 °C Humidity: 173 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:15
+Temperature: 174 °C Humidity: 175 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:16
+Temperature: 176 °C Humidity: 175 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:17
+Temperature: 176 °C Humidity: 177 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:18
+Temperature: 178 °C Humidity: 177 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:19
+Temperature: 178 °C Humidity: 179 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:20
+Temperature: 178 °C Humidity: 179 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:21
+Temperature: 180 °C Humidity: 179 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:22
+Temperature: 180 °C Humidity: 181 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:23
+Temperature: 182 °C Humidity: 181 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:24
+Temperature: 182 °C Humidity: 183 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:25
+Temperature: 184 °C Humidity: 183 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:26
+Temperature: 184 °C Humidity: 185 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:27
+Temperature: 186 °C Humidity: 185 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:28
+Temperature: 186 °C Humidity: 187 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:29
+Temperature: 188 °C Humidity: 187 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:30
+Temperature: 188 °C Humidity: 189 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:31
+Temperature: 190 °C Humidity: 189 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:32
+Temperature: 190 °C Humidity: 191 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:33
+Temperature: 192 °C Humidity: 191 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:34
+Temperature: 192 °C Humidity: 193 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:35
+Temperature: 194 °C Humidity: 193 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:36
+Temperature: 194 °C Humidity: 195 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:37
+Temperature: 196 °C Humidity: 195 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:38
+Temperature: 196 °C Humidity: 197 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:39
+Temperature: 198 °C Humidity: 197 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:40
+Temperature: 198 °C Humidity: 199 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:41
+Temperature: 200 °C Humidity: 199 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:42
+Temperature: 200 °C Humidity: 201 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:43
+Temperature: 202 °C Humidity: 201 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:44
+Temperature: 202 °C Humidity: 203 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:45
+Temperature: 204 °C Humidity: 203 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:46
+Temperature: 204 °C Humidity: 205 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:47
+Temperature: 206 °C Humidity: 205 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:48
+Temperature: 206 °C Humidity: 207 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:49
+Temperature: 208 °C Humidity: 207 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:50
+Temperature: 208 °C Humidity: 209 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:51
+Temperature: 210 °C Humidity: 209 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:52
+Temperature: 210 °C Humidity: 211 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:53
+Temperature: 212 °C Humidity: 211 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:54
+Temperature: 212 °C Humidity: 213 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:55
+Temperature: 214 °C Humidity: 213 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:56
+Temperature: 214 °C Humidity: 215 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:57
+Temperature: 216 °C Humidity: 215 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:58
+Temperature: 216 °C Humidity: 217 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:25:59
+Temperature: 218 °C Humidity: 217 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:00
+Temperature: 218 °C Humidity: 219 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:01
+Temperature: 220 °C Humidity: 219 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:02
+Temperature: 220 °C Humidity: 221 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:03
+Temperature: 222 °C Humidity: 221 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:04
+Temperature: 222 °C Humidity: 223 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:05
+Temperature: 222 °C Humidity: 223 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:06
+Temperature: 224 °C Humidity: 223 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:07
+Temperature: 224 °C Humidity: 225 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:08
+Temperature: 226 °C Humidity: 225 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:09
+Temperature: 226 °C Humidity: 227 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:10
+Temperature: 228 °C Humidity: 227 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:11
+Temperature: 228 °C Humidity: 229 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:12
+Temperature: 230 °C Humidity: 229 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:13
+Temperature: 230 °C Humidity: 231 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:14
+Temperature: 232 °C Humidity: 231 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:15
+Temperature: 232 °C Humidity: 233 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:16
+Temperature: 234 °C Humidity: 233 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:17
+Temperature: 234 °C Humidity: 235 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:18
+Temperature: 236 °C Humidity: 235 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:19
+Temperature: 236 °C Humidity: 237 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:20
+Temperature: 238 °C Humidity: 237 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:21
+Temperature: 238 °C Humidity: 239 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:22
+Temperature: 240 °C Humidity: 239 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:23
+Temperature: 240 °C Humidity: 241 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:24
+Temperature: 242 °C Humidity: 241 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:25
+Temperature: 242 °C Humidity: 243 % CO2: 1000 ppm VOC: 300 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:26
+Temperature: 244 °C Humidity: 243 % CO2: 1000 ppm VOC: 300 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:27
+Temperature: 244 °C Humidity: 245 % CO2: 1000 ppm VOC: 300 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:26:30
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:30
+Temperature: 246 °C Humidity: - CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:31
+Temperature: 246 °C Humidity: 247 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:32
+Temperature: 248 °C Humidity: 247 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:33
+Temperature: 248 °C Humidity: 249 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:34
+Temperature: 250 °C Humidity: 249 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:35
+Temperature: 250 °C Humidity: 249 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:36
+Temperature: 250 °C Humidity: 249 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:37
+Temperature: 250 °C Humidity: 249 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:40
+Temperature: 2 °C Humidity: 1 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:42
+Temperature: 4 °C Humidity: 3 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:43
+Temperature: 4 °C Humidity: 5 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:44
+Temperature: 6 °C Humidity: 5 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:45
+Temperature: 6 °C Humidity: 7 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:46
+Temperature: 8 °C Humidity: 7 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:47
+Temperature: 8 °C Humidity: 9 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:48
+Temperature: 10 °C Humidity: 9 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:49
+Temperature: 10 °C Humidity: 11 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:50
+Temperature: 12 °C Humidity: 11 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:51
+Temperature: 12 °C Humidity: 13 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:52
+Temperature: 14 °C Humidity: 13 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:53
+Temperature: 14 °C Humidity: 15 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:54
+Temperature: 16 °C Humidity: 15 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:55
+Temperature: 16 °C Humidity: 17 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:56
+Temperature: 18 °C Humidity: 17 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:57
+Temperature: 18 °C Humidity: 19 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:58
+Temperature: 20 °C Humidity: 19 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:26:59
+Temperature: 20 °C Humidity: 21 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:00
+Temperature: 22 °C Humidity: 21 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:01
+Temperature: 22 °C Humidity: 23 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:02
+Temperature: 24 °C Humidity: 23 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:03
+Temperature: 24 °C Humidity: 25 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:04
+Temperature: 26 °C Humidity: 25 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:05
+Temperature: 26 °C Humidity: 27 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:06
+Temperature: 28 °C Humidity: 27 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:07
+Temperature: 28 °C Humidity: 29 % CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:08
+Temperature: 30 °C Humidity: 29 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:09
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:11
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:11
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:12
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:13
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:14
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:15
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:16
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:17
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:18
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:19
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:20
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:21
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:22
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:23
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:24
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:25
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:26
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:27
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:28
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:29
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:30
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:31
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:32
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:33
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:34
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:35
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:36
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:37
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:38
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:39
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:40
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:41
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:42
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:43
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:44
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:45
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:46
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:47
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:48
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:49
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:50
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:51
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:52
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:53
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:54
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:55
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:56
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:57
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:58
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:27:59
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:00
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:01
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:02
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:03
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:04
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:05
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:06
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:07
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:08
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:09
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:28:10
+Temperature: 30 °C Humidity: 31 % CO2: - VOC: -
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:28:13
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:18
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:23
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:28
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:33
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:38
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:43
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:48
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:53
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:28:58
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:03
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:08
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:13
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:18
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:23
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:28
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:33
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:38
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:43
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:48
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:53
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:29:58
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:30:03
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:30:08
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:30:13
+Temperature: - Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:17
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:18
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:19
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:20
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:21
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:22
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:23
+Temperature: 4 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:28
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:29
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:31
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:32
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:33
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:35
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:36
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:37
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:39
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:40
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:41
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:43
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:44
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:45
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:47
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:48
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:49
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:51
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:52
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:53
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:55
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:56
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:57
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:30:59
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:31:00
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:31:01
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:31:02
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:31:04
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:32:01
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:32:06
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:32:11
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:32:16
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:32:21
+Temperature: 0 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:22
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:23
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:25
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:26
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:27
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:29
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:30
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:31
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:32
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:34
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:35
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:36
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:38
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:39
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:40
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:42
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:43
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:44
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:46
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:47
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:48
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:50
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:51
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:52
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:54
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:55
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:56
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:58
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:32:59
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:00
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:02
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:03
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:04
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:06
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:07
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:08
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:10
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:11
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:12
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:13
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:15
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:16
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:17
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:19
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:20
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:21
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:23
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:24
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:25
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:27
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:28
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:29
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:31
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:32
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:33
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:35
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:36
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:37
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:39
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:40
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:41
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:43
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:44
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:45
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:47
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:48
+Temperature: 88 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:49
+Temperature: 88 °C Humidity: 89 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:51
+Temperature: 88 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:52
+Temperature: 92 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:53
+Temperature: 92 °C Humidity: 93 % CO2: 91 ppm VOC: 90 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:55
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:56
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:57
+Temperature: 96 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:33:58
+Temperature: 96 °C Humidity: 97 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:00
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:01
+Temperature: 100 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:02
+Temperature: 100 °C Humidity: 101 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:04
+Temperature: 100 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:05
+Temperature: 104 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:06
+Temperature: 104 °C Humidity: 105 % CO2: 103 ppm VOC: 102 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:08
+Temperature: 104 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:09
+Temperature: 108 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:10
+Temperature: 108 °C Humidity: 109 % CO2: 107 ppm VOC: 106 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:12
+Temperature: 108 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:13
+Temperature: 112 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:14
+Temperature: 112 °C Humidity: 113 % CO2: 111 ppm VOC: 110 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:16
+Temperature: 112 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:17
+Temperature: 116 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:18
+Temperature: 116 °C Humidity: 117 % CO2: 115 ppm VOC: 114 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:20
+Temperature: 116 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:21
+Temperature: 120 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:22
+Temperature: 120 °C Humidity: 121 % CO2: 119 ppm VOC: 118 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:24
+Temperature: 120 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:25
+Temperature: 124 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:26
+Temperature: 124 °C Humidity: 125 % CO2: 123 ppm VOC: 122 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:28
+Temperature: 124 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:29
+Temperature: 128 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:30
+Temperature: 128 °C Humidity: 129 % CO2: 127 ppm VOC: 126 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:32
+Temperature: 128 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:33
+Temperature: 132 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:34
+Temperature: 132 °C Humidity: 133 % CO2: 131 ppm VOC: 130 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:36
+Temperature: 132 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:37
+Temperature: 136 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:38
+Temperature: 136 °C Humidity: 137 % CO2: 135 ppm VOC: 134 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:40
+Temperature: 136 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:41
+Temperature: 136 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:42
+Temperature: 140 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:43
+Temperature: 140 °C Humidity: 141 % CO2: 139 ppm VOC: 138 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:45
+Temperature: 140 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:46
+Temperature: 144 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:47
+Temperature: 144 °C Humidity: 145 % CO2: 143 ppm VOC: 142 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:49
+Temperature: 144 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:50
+Temperature: 148 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:51
+Temperature: 148 °C Humidity: 149 % CO2: 147 ppm VOC: 146 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:53
+Temperature: 148 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:54
+Temperature: 152 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:55
+Temperature: 152 °C Humidity: 153 % CO2: 151 ppm VOC: 150 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:57
+Temperature: 152 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:58
+Temperature: 156 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:34:59
+Temperature: 156 °C Humidity: 157 % CO2: 155 ppm VOC: 154 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:01
+Temperature: 156 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:02
+Temperature: 160 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:03
+Temperature: 160 °C Humidity: 161 % CO2: 159 ppm VOC: 158 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:05
+Temperature: 160 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:06
+Temperature: 164 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:07
+Temperature: 164 °C Humidity: 165 % CO2: 163 ppm VOC: 162 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:09
+Temperature: 164 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:10
+Temperature: 168 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:11
+Temperature: 168 °C Humidity: 169 % CO2: 167 ppm VOC: 166 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:13
+Temperature: 168 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:14
+Temperature: 172 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:15
+Temperature: 172 °C Humidity: 173 % CO2: 171 ppm VOC: 170 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:17
+Temperature: 172 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:18
+Temperature: 176 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:19
+Temperature: 176 °C Humidity: 177 % CO2: 175 ppm VOC: 174 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:21
+Temperature: 176 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:22
+Temperature: 180 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:23
+Temperature: 180 °C Humidity: 181 % CO2: 179 ppm VOC: 178 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:25
+Temperature: 180 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:26
+Temperature: 180 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:27
+Temperature: 184 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:28
+Temperature: 184 °C Humidity: 185 % CO2: 183 ppm VOC: 182 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:30
+Temperature: 184 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:31
+Temperature: 188 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:32
+Temperature: 188 °C Humidity: 189 % CO2: 187 ppm VOC: 186 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:34
+Temperature: 188 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:35
+Temperature: 192 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:36
+Temperature: 192 °C Humidity: 193 % CO2: 191 ppm VOC: 190 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:38
+Temperature: 192 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:39
+Temperature: 196 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:40
+Temperature: 196 °C Humidity: 197 % CO2: 195 ppm VOC: 194 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:42
+Temperature: 196 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:43
+Temperature: 200 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:44
+Temperature: 200 °C Humidity: 201 % CO2: 199 ppm VOC: 198 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:46
+Temperature: 200 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:47
+Temperature: 204 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:48
+Temperature: 204 °C Humidity: 205 % CO2: 203 ppm VOC: 202 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:50
+Temperature: 204 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:51
+Temperature: 208 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:52
+Temperature: 208 °C Humidity: 209 % CO2: 207 ppm VOC: 206 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:54
+Temperature: 208 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:55
+Temperature: 212 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:56
+Temperature: 212 °C Humidity: 213 % CO2: 211 ppm VOC: 210 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:58
+Temperature: 212 °C Humidity: 213 % CO2: 215 ppm VOC: 214 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:35:59
+Temperature: 216 °C Humidity: 213 % CO2: 215 ppm VOC: 214 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:00
+Temperature: 216 °C Humidity: 217 % CO2: 215 ppm VOC: 214 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:36:09
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:36:14
+Temperature: - Humidity: - CO2: - VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:17
+Temperature: - Humidity: - CO2: 219 ppm VOC: 218 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:18
+Temperature: 220 °C Humidity: - CO2: 219 ppm VOC: 218 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:19
+Temperature: 220 °C Humidity: 221 % CO2: 219 ppm VOC: 218 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:21
+Temperature: 220 °C Humidity: 221 % CO2: 223 ppm VOC: 222 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:22
+Temperature: 224 °C Humidity: 221 % CO2: 223 ppm VOC: 222 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:23
+Temperature: 224 °C Humidity: 225 % CO2: 223 ppm VOC: 222 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:25
+Temperature: 224 °C Humidity: 225 % CO2: 227 ppm VOC: 226 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:26
+Temperature: 228 °C Humidity: 225 % CO2: 227 ppm VOC: 226 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:27
+Temperature: 228 °C Humidity: 229 % CO2: 227 ppm VOC: 226 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:29
+Temperature: 228 °C Humidity: 229 % CO2: 231 ppm VOC: 230 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:30
+Temperature: 232 °C Humidity: 229 % CO2: 231 ppm VOC: 230 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:31
+Temperature: 232 °C Humidity: 233 % CO2: 231 ppm VOC: 230 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:33
+Temperature: 232 °C Humidity: 233 % CO2: 235 ppm VOC: 234 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:34
+Temperature: 236 °C Humidity: 233 % CO2: 235 ppm VOC: 234 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:35
+Temperature: 236 °C Humidity: 237 % CO2: 235 ppm VOC: 234 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:37
+Temperature: 236 °C Humidity: 237 % CO2: 239 ppm VOC: 238 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:38
+Temperature: 236 °C Humidity: 237 % CO2: 239 ppm VOC: 238 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:39
+Temperature: 240 °C Humidity: 237 % CO2: 239 ppm VOC: 238 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:40
+Temperature: 240 °C Humidity: 241 % CO2: 239 ppm VOC: 238 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:42
+Temperature: 240 °C Humidity: 241 % CO2: 243 ppm VOC: 242 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:43
+Temperature: 244 °C Humidity: 241 % CO2: 243 ppm VOC: 242 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:44
+Temperature: 244 °C Humidity: 245 % CO2: 243 ppm VOC: 242 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:46
+Temperature: 244 °C Humidity: 245 % CO2: 247 ppm VOC: 246 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:47
+Temperature: 248 °C Humidity: 245 % CO2: 247 ppm VOC: 246 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:48
+Temperature: 248 °C Humidity: 249 % CO2: 247 ppm VOC: 246 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:50
+Temperature: 248 °C Humidity: 249 % CO2: 251 ppm VOC: 250 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:51
+Temperature: 252 °C Humidity: 249 % CO2: 251 ppm VOC: 250 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:52
+Temperature: 252 °C Humidity: 253 % CO2: 251 ppm VOC: 250 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:54
+Temperature: 252 °C Humidity: 253 % CO2: 255 ppm VOC: 254 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:55
+Temperature: 256 °C Humidity: 253 % CO2: 255 ppm VOC: 254 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:56
+Temperature: 256 °C Humidity: 257 % CO2: 255 ppm VOC: 254 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:58
+Temperature: 256 °C Humidity: 257 % CO2: 259 ppm VOC: 258 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:36:59
+Temperature: 260 °C Humidity: 257 % CO2: 259 ppm VOC: 258 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:00
+Temperature: 260 °C Humidity: 261 % CO2: 259 ppm VOC: 258 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:02
+Temperature: 260 °C Humidity: 261 % CO2: 263 ppm VOC: 262 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:03
+Temperature: 264 °C Humidity: 261 % CO2: 263 ppm VOC: 262 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:04
+Temperature: 264 °C Humidity: 265 % CO2: 263 ppm VOC: 262 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:06
+Temperature: 264 °C Humidity: 265 % CO2: 267 ppm VOC: 266 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:07
+Temperature: 268 °C Humidity: 265 % CO2: 267 ppm VOC: 266 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:08
+Temperature: 268 °C Humidity: 269 % CO2: 267 ppm VOC: 266 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:10
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:12
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:12
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:13
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:14
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:15
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:16
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:17
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:18
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:19
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:20
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:21
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:22
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:23
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:24
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:25
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:26
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:27
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:28
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:29
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:30
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:31
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:32
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:33
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:34
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:35
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:36
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:37
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:38
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:39
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:40
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:41
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:42
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:43
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:44
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:45
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:46
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:47
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:48
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:49
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:50
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:51
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:52
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:53
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:54
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:55
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:56
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:57
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:58
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:37:59
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:00
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:01
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:02
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:03
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:04
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:05
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:06
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:07
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:08
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:09
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:10
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:11
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:12
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:13
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:14
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:15
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:16
+Temperature: 268 °C Humidity: 269 % CO2: 271 ppm VOC: 270 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:38:19
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:38:24
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:38:29
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:38:34
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:38:39
+Temperature: - Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:42
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:43
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:44
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:45
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:46
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:47
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:48
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:49
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:50
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:51
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:52
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:53
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:54
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:55
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:38:56
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:01
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:06
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:11
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:16
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:21
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:26
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:31
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:36
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:41
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:46
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:51
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:39:56
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:40:01
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:40:06
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:40:11
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:40:16
+Temperature: 0 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:17
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:18
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:19
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:21
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:22
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:23
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:25
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:26
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:27
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:29
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:30
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:31
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:33
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:34
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:35
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:36
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:37
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:38
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:39
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:40
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:41
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:42
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:43
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:44
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:45
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:40:50
+Temperature: 0 °C Humidity: 1 % CO2: 19 ppm VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:54
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:55
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:56
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:40:57
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:00
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:01
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:02
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:03
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:04
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:05
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:08
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:09
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:10
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:11
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:12
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:13
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:14
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:17
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:18
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:19
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:20
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:21
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:22
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:25
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:26
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:27
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:28
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:29
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:30
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:33
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:34
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:35
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:36
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:37
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:38
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:41
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:42
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:43
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:44
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:45
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:46
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:49
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:50
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:51
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:52
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:53
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:54
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:57
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:58
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:41:59
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:00
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:01
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:02
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:05
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:06
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:07
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:08
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:09
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:10
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:13
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:14
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:15
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:16
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:17
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:18
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:21
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:22
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:23
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:24
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:25
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:26
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:29
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:30
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:31
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:32
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:33
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:34
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:37
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:38
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:39
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:40
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:41
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:42
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:43
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:46
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:47
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:48
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:49
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:50
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:51
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:54
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:55
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:56
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:57
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:58
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:42:59
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:02
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:03
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:04
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:05
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:06
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:07
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:10
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:11
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:12
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:13
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:14
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:15
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:18
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:19
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:20
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:21
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:22
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:23
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:26
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:27
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:28
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:29
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:30
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:31
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:34
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:35
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:36
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:37
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:38
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:39
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:42
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:43
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:44
+Temperature: 88 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:45
+Temperature: 88 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:46
+Temperature: 88 °C Humidity: 89 % CO2: 87 ppm VOC: 86 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:47
+Temperature: 88 °C Humidity: 89 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:50
+Temperature: 88 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:51
+Temperature: 88 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:52
+Temperature: 92 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:53
+Temperature: 92 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:54
+Temperature: 92 °C Humidity: 93 % CO2: 91 ppm VOC: 90 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:55
+Temperature: 92 °C Humidity: 93 % CO2: 91 ppm VOC: 90 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:58
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:43:59
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:00
+Temperature: 96 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:01
+Temperature: 96 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:02
+Temperature: 96 °C Humidity: 97 % CO2: 95 ppm VOC: 94 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:03
+Temperature: 96 °C Humidity: 97 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:06
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:07
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:08
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:09
+Temperature: 100 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:10
+Temperature: 100 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:11
+Temperature: 100 °C Humidity: 101 % CO2: 99 ppm VOC: 98 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:12
+Temperature: 100 °C Humidity: 101 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:15
+Temperature: 100 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:16
+Temperature: 100 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:17
+Temperature: 104 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:18
+Temperature: 104 °C Humidity: 101 % CO2: 103 ppm VOC: 102 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:19
+Temperature: 104 °C Humidity: 105 % CO2: 103 ppm VOC: 102 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:20
+Temperature: 104 °C Humidity: 105 % CO2: 103 ppm VOC: 102 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:23
+Temperature: 104 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:24
+Temperature: 104 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:25
+Temperature: 108 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:26
+Temperature: 108 °C Humidity: 105 % CO2: 107 ppm VOC: 106 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:27
+Temperature: 108 °C Humidity: 109 % CO2: 107 ppm VOC: 106 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:28
+Temperature: 108 °C Humidity: 109 % CO2: 107 ppm VOC: 106 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:31
+Temperature: 108 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:32
+Temperature: 108 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:33
+Temperature: 112 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:34
+Temperature: 112 °C Humidity: 109 % CO2: 111 ppm VOC: 110 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:35
+Temperature: 112 °C Humidity: 113 % CO2: 111 ppm VOC: 110 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:36
+Temperature: 112 °C Humidity: 113 % CO2: 111 ppm VOC: 110 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:39
+Temperature: 112 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:40
+Temperature: 112 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:41
+Temperature: 116 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:42
+Temperature: 116 °C Humidity: 113 % CO2: 115 ppm VOC: 114 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:43
+Temperature: 116 °C Humidity: 117 % CO2: 115 ppm VOC: 114 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:44
+Temperature: 116 °C Humidity: 117 % CO2: 115 ppm VOC: 114 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:47
+Temperature: 116 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:48
+Temperature: 116 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:49
+Temperature: 120 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:50
+Temperature: 120 °C Humidity: 117 % CO2: 119 ppm VOC: 118 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:51
+Temperature: 120 °C Humidity: 121 % CO2: 119 ppm VOC: 118 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:52
+Temperature: 120 °C Humidity: 121 % CO2: 119 ppm VOC: 118 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:55
+Temperature: 120 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:56
+Temperature: 120 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:57
+Temperature: 124 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:58
+Temperature: 124 °C Humidity: 121 % CO2: 123 ppm VOC: 122 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:44:59
+Temperature: 124 °C Humidity: 125 % CO2: 123 ppm VOC: 122 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:00
+Temperature: 124 °C Humidity: 125 % CO2: 123 ppm VOC: 122 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:03
+Temperature: 124 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:04
+Temperature: 124 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:05
+Temperature: 128 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:06
+Temperature: 128 °C Humidity: 125 % CO2: 127 ppm VOC: 126 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:07
+Temperature: 128 °C Humidity: 129 % CO2: 127 ppm VOC: 126 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:08
+Temperature: 128 °C Humidity: 129 % CO2: 127 ppm VOC: 126 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:11
+Temperature: 128 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:12
+Temperature: 128 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:13
+Temperature: 132 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:14
+Temperature: 132 °C Humidity: 129 % CO2: 131 ppm VOC: 130 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:15
+Temperature: 132 °C Humidity: 133 % CO2: 131 ppm VOC: 130 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:16
+Temperature: 132 °C Humidity: 133 % CO2: 131 ppm VOC: 130 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:19
+Temperature: 132 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:20
+Temperature: 132 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:21
+Temperature: 136 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:22
+Temperature: 136 °C Humidity: 133 % CO2: 135 ppm VOC: 134 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:23
+Temperature: 136 °C Humidity: 137 % CO2: 135 ppm VOC: 134 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:24
+Temperature: 136 °C Humidity: 137 % CO2: 135 ppm VOC: 134 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:27
+Temperature: 136 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:28
+Temperature: 136 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:29
+Temperature: 140 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:30
+Temperature: 140 °C Humidity: 137 % CO2: 139 ppm VOC: 138 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:31
+Temperature: 140 °C Humidity: 141 % CO2: 139 ppm VOC: 138 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:32
+Temperature: 140 °C Humidity: 141 % CO2: 139 ppm VOC: 138 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:35
+Temperature: 140 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:36
+Temperature: 140 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:37
+Temperature: 140 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:38
+Temperature: 144 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:39
+Temperature: 144 °C Humidity: 141 % CO2: 143 ppm VOC: 142 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:40
+Temperature: 144 °C Humidity: 145 % CO2: 143 ppm VOC: 142 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:41
+Temperature: 144 °C Humidity: 145 % CO2: 143 ppm VOC: 142 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:44
+Temperature: 144 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:45
+Temperature: 144 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:46
+Temperature: 148 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:47
+Temperature: 148 °C Humidity: 145 % CO2: 147 ppm VOC: 146 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:48
+Temperature: 148 °C Humidity: 149 % CO2: 147 ppm VOC: 146 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:49
+Temperature: 148 °C Humidity: 149 % CO2: 147 ppm VOC: 146 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:52
+Temperature: 148 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:53
+Temperature: 148 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:54
+Temperature: 152 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:55
+Temperature: 152 °C Humidity: 149 % CO2: 151 ppm VOC: 150 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:56
+Temperature: 152 °C Humidity: 153 % CO2: 151 ppm VOC: 150 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:45:57
+Temperature: 152 °C Humidity: 153 % CO2: 151 ppm VOC: 150 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:00
+Temperature: 152 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:01
+Temperature: 152 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:02
+Temperature: 156 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:03
+Temperature: 156 °C Humidity: 153 % CO2: 155 ppm VOC: 154 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:04
+Temperature: 156 °C Humidity: 157 % CO2: 155 ppm VOC: 154 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:05
+Temperature: 156 °C Humidity: 157 % CO2: 155 ppm VOC: 154 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:08
+Temperature: 156 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:09
+Temperature: 156 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:10
+Temperature: 160 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:11
+Temperature: 160 °C Humidity: 157 % CO2: 159 ppm VOC: 158 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:12
+Temperature: 160 °C Humidity: 161 % CO2: 159 ppm VOC: 158 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:13
+Temperature: 160 °C Humidity: 161 % CO2: 159 ppm VOC: 158 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:16
+Temperature: 160 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:17
+Temperature: 160 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:18
+Temperature: 164 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:19
+Temperature: 164 °C Humidity: 161 % CO2: 163 ppm VOC: 162 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:20
+Temperature: 164 °C Humidity: 165 % CO2: 163 ppm VOC: 162 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:21
+Temperature: 164 °C Humidity: 165 % CO2: 163 ppm VOC: 162 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:24
+Temperature: 164 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:25
+Temperature: 164 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:26
+Temperature: 168 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:27
+Temperature: 168 °C Humidity: 165 % CO2: 167 ppm VOC: 166 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:28
+Temperature: 168 °C Humidity: 169 % CO2: 167 ppm VOC: 166 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:29
+Temperature: 168 °C Humidity: 169 % CO2: 167 ppm VOC: 166 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:32
+Temperature: 168 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:33
+Temperature: 168 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:34
+Temperature: 172 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:35
+Temperature: 172 °C Humidity: 169 % CO2: 171 ppm VOC: 170 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:36
+Temperature: 172 °C Humidity: 173 % CO2: 171 ppm VOC: 170 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:37
+Temperature: 172 °C Humidity: 173 % CO2: 171 ppm VOC: 170 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:40
+Temperature: 172 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:41
+Temperature: 172 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:42
+Temperature: 176 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:43
+Temperature: 176 °C Humidity: 173 % CO2: 175 ppm VOC: 174 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:44
+Temperature: 176 °C Humidity: 177 % CO2: 175 ppm VOC: 174 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:45
+Temperature: 176 °C Humidity: 177 % CO2: 175 ppm VOC: 174 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:46
+Temperature: 176 °C Humidity: 177 % CO2: 175 ppm VOC: 174 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:49
+Temperature: 176 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:50
+Temperature: 176 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:51
+Temperature: 180 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:52
+Temperature: 180 °C Humidity: 177 % CO2: 179 ppm VOC: 178 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:53
+Temperature: 180 °C Humidity: 181 % CO2: 179 ppm VOC: 178 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:54
+Temperature: 180 °C Humidity: 181 % CO2: 179 ppm VOC: 178 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:57
+Temperature: 180 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:58
+Temperature: 180 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:46:59
+Temperature: 184 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:00
+Temperature: 184 °C Humidity: 181 % CO2: 183 ppm VOC: 182 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:01
+Temperature: 184 °C Humidity: 185 % CO2: 183 ppm VOC: 182 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:02
+Temperature: 184 °C Humidity: 185 % CO2: 183 ppm VOC: 182 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:05
+Temperature: 184 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:06
+Temperature: 184 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:07
+Temperature: 188 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:08
+Temperature: 188 °C Humidity: 185 % CO2: 187 ppm VOC: 186 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:09
+Temperature: 188 °C Humidity: 189 % CO2: 187 ppm VOC: 186 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:10
+Temperature: 188 °C Humidity: 189 % CO2: 187 ppm VOC: 186 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:13
+Temperature: 188 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:14
+Temperature: 188 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:15
+Temperature: 192 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:16
+Temperature: 192 °C Humidity: 189 % CO2: 191 ppm VOC: 190 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:17
+Temperature: 192 °C Humidity: 193 % CO2: 191 ppm VOC: 190 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:18
+Temperature: 192 °C Humidity: 193 % CO2: 191 ppm VOC: 190 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:21
+Temperature: 192 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:22
+Temperature: 192 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:23
+Temperature: 196 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:24
+Temperature: 196 °C Humidity: 193 % CO2: 195 ppm VOC: 194 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:25
+Temperature: 196 °C Humidity: 197 % CO2: 195 ppm VOC: 194 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:26
+Temperature: 196 °C Humidity: 197 % CO2: 195 ppm VOC: 194 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:29
+Temperature: 196 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:30
+Temperature: 196 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:31
+Temperature: 200 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:32
+Temperature: 200 °C Humidity: 197 % CO2: 199 ppm VOC: 198 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:33
+Temperature: 200 °C Humidity: 201 % CO2: 199 ppm VOC: 198 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:34
+Temperature: 200 °C Humidity: 201 % CO2: 199 ppm VOC: 198 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:37
+Temperature: 200 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:38
+Temperature: 200 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:39
+Temperature: 204 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:40
+Temperature: 204 °C Humidity: 201 % CO2: 203 ppm VOC: 202 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:41
+Temperature: 204 °C Humidity: 205 % CO2: 203 ppm VOC: 202 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:42
+Temperature: 204 °C Humidity: 205 % CO2: 203 ppm VOC: 202 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:45
+Temperature: 204 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:46
+Temperature: 204 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:47
+Temperature: 208 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:48
+Temperature: 208 °C Humidity: 205 % CO2: 207 ppm VOC: 206 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:49
+Temperature: 208 °C Humidity: 209 % CO2: 207 ppm VOC: 206 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:50
+Temperature: 208 °C Humidity: 209 % CO2: 207 ppm VOC: 206 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:53
+Temperature: 208 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:54
+Temperature: 208 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:55
+Temperature: 212 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:56
+Temperature: 212 °C Humidity: 209 % CO2: 211 ppm VOC: 210 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:57
+Temperature: 212 °C Humidity: 213 % CO2: 211 ppm VOC: 210 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:47:58
+Temperature: 212 °C Humidity: 213 % CO2: 211 ppm VOC: 210 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:48:45
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:48:50
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:48:55
+Temperature: - Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:49:00
+Temperature: 0 °C Humidity: - CO2: - VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:49:05
+Temperature: 0 °C Humidity: 1 % CO2: - VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:07
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:08
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:09
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:10
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:13
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:14
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:15
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:16
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:17
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:18
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:21
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:22
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:23
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:24
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:25
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:26
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:29
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:30
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:31
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:32
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:33
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:34
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:37
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:38
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:39
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:40
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:41
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:42
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:45
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:46
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:47
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:48
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:49
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:50
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:53
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:54
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:55
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:56
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:57
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:49:58
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:01
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:02
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:03
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:04
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:05
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:06
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:09
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:10
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:11
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:12
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:13
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:14
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:15
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:18
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:19
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:20
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:21
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:22
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:23
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:26
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:27
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:28
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:29
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:30
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:31
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:34
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:35
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:36
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:37
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:38
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:39
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:42
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:43
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:44
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:45
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:46
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:47
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:50
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:51
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:52
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:53
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:54
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:55
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:58
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:50:59
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:00
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:01
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:02
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:03
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:06
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:07
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:08
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:09
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:10
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:11
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:14
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:15
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:16
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:17
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:18
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:19
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:22
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:23
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:24
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:25
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:26
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:27
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:30
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:31
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:32
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:33
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:34
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:35
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:36
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:39
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:40
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:41
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:42
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:43
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:44
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:47
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:48
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:49
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:50
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:51
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:52
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:55
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:56
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:57
+Temperature: 88 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:58
+Temperature: 88 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:51:59
+Temperature: 88 °C Humidity: 89 % CO2: 87 ppm VOC: 86 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:00
+Temperature: 88 °C Humidity: 89 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:03
+Temperature: 88 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:04
+Temperature: 88 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:05
+Temperature: 92 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:06
+Temperature: 92 °C Humidity: 89 % CO2: 91 ppm VOC: 90 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:07
+Temperature: 92 °C Humidity: 93 % CO2: 91 ppm VOC: 90 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:08
+Temperature: 92 °C Humidity: 93 % CO2: 91 ppm VOC: 90 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:11
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:12
+Temperature: 92 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:13
+Temperature: 96 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:14
+Temperature: 96 °C Humidity: 93 % CO2: 95 ppm VOC: 94 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:15
+Temperature: 96 °C Humidity: 97 % CO2: 95 ppm VOC: 94 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:16
+Temperature: 96 °C Humidity: 97 % CO2: 95 ppm VOC: 94 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:19
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:21
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:22
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:23
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:24
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:25
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:26
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:27
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:28
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:29
+Temperature: 96 °C Humidity: 97 % CO2: 99 ppm VOC: 98 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:34
+Temperature: 4 °C Humidity: 1 % CO2: 3 ppm VOC: 2 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:35
+Temperature: 4 °C Humidity: 5 % CO2: 3 ppm VOC: 2 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:37
+Temperature: 4 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:38
+Temperature: 8 °C Humidity: 5 % CO2: 7 ppm VOC: 6 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:39
+Temperature: 8 °C Humidity: 9 % CO2: 7 ppm VOC: 6 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:41
+Temperature: 8 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:42
+Temperature: 12 °C Humidity: 9 % CO2: 11 ppm VOC: 10 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:43
+Temperature: 12 °C Humidity: 13 % CO2: 11 ppm VOC: 10 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:45
+Temperature: 12 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:46
+Temperature: 16 °C Humidity: 13 % CO2: 15 ppm VOC: 14 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:47
+Temperature: 16 °C Humidity: 17 % CO2: 15 ppm VOC: 14 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:49
+Temperature: 16 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:50
+Temperature: 20 °C Humidity: 17 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:51
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:52
+Temperature: 20 °C Humidity: 21 % CO2: 19 ppm VOC: 18 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:54
+Temperature: 20 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:55
+Temperature: 24 °C Humidity: 21 % CO2: 23 ppm VOC: 22 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:56
+Temperature: 24 °C Humidity: 25 % CO2: 23 ppm VOC: 22 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:58
+Temperature: 24 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:52:59
+Temperature: 28 °C Humidity: 25 % CO2: 27 ppm VOC: 26 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:00
+Temperature: 28 °C Humidity: 29 % CO2: 27 ppm VOC: 26 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:02
+Temperature: 28 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:03
+Temperature: 32 °C Humidity: 29 % CO2: 31 ppm VOC: 30 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:04
+Temperature: 32 °C Humidity: 33 % CO2: 31 ppm VOC: 30 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:06
+Temperature: 32 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:07
+Temperature: 36 °C Humidity: 33 % CO2: 35 ppm VOC: 34 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:08
+Temperature: 36 °C Humidity: 37 % CO2: 35 ppm VOC: 34 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:10
+Temperature: 36 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:11
+Temperature: 40 °C Humidity: 37 % CO2: 39 ppm VOC: 38 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:12
+Temperature: 40 °C Humidity: 41 % CO2: 39 ppm VOC: 38 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:14
+Temperature: 40 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:15
+Temperature: 44 °C Humidity: 41 % CO2: 43 ppm VOC: 42 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:16
+Temperature: 44 °C Humidity: 45 % CO2: 43 ppm VOC: 42 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:18
+Temperature: 44 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:19
+Temperature: 48 °C Humidity: 45 % CO2: 47 ppm VOC: 46 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:20
+Temperature: 48 °C Humidity: 49 % CO2: 47 ppm VOC: 46 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:22
+Temperature: 48 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:23
+Temperature: 52 °C Humidity: 49 % CO2: 51 ppm VOC: 50 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:24
+Temperature: 52 °C Humidity: 53 % CO2: 51 ppm VOC: 50 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:26
+Temperature: 52 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:27
+Temperature: 56 °C Humidity: 53 % CO2: 55 ppm VOC: 54 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:28
+Temperature: 56 °C Humidity: 57 % CO2: 55 ppm VOC: 54 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:30
+Temperature: 56 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:31
+Temperature: 60 °C Humidity: 57 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:32
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:33
+Temperature: 60 °C Humidity: 61 % CO2: 59 ppm VOC: 58 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:35
+Temperature: 60 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:36
+Temperature: 64 °C Humidity: 61 % CO2: 63 ppm VOC: 62 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:37
+Temperature: 64 °C Humidity: 65 % CO2: 63 ppm VOC: 62 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:39
+Temperature: 64 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:40
+Temperature: 68 °C Humidity: 65 % CO2: 67 ppm VOC: 66 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:41
+Temperature: 68 °C Humidity: 69 % CO2: 67 ppm VOC: 66 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:43
+Temperature: 68 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:44
+Temperature: 72 °C Humidity: 69 % CO2: 71 ppm VOC: 70 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:45
+Temperature: 72 °C Humidity: 73 % CO2: 71 ppm VOC: 70 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:47
+Temperature: 72 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:48
+Temperature: 76 °C Humidity: 73 % CO2: 75 ppm VOC: 74 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:49
+Temperature: 76 °C Humidity: 77 % CO2: 75 ppm VOC: 74 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:51
+Temperature: 76 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:52
+Temperature: 80 °C Humidity: 77 % CO2: 79 ppm VOC: 78 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:53
+Temperature: 80 °C Humidity: 81 % CO2: 79 ppm VOC: 78 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:55
+Temperature: 80 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:56
+Temperature: 84 °C Humidity: 81 % CO2: 83 ppm VOC: 82 ppm
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:53:57
+Temperature: 84 °C Humidity: 85 % CO2: 83 ppm VOC: 82 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:02
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:02
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:03
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:04
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:05
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:06
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:54:07
+Temperature: 84 °C Humidity: 85 % CO2: 87 ppm VOC: 86 ppm
+
+0 < Temperature < 1.95
+2 < Humidity < 3.95
+4 < CO2 < 5.95
+6 < TVOC < 750
+Start time: Wednesday, 17 June 2020 12:55:03
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:07
+Temperature: - Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:12
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:13
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:13
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:15
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Temperature alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:16
+Temperature: 21 °C Humidity: - CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:17
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:17
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:18
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:19
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+Humidity alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:20
+Temperature: 21 °C Humidity: 30 % CO2: - VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:21
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:23
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:24
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+CO2 alert! 
+!!!!!!!!!!!!!! 
+Wednesday, 17 June 2020 12:55:25
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: -
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:31
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:36
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:41
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:46
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:51
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
+~~~~~~~~~~ 
+Wednesday, 17 June 2020 12:55:56
+Temperature: 21 °C Humidity: 30 % CO2: 1000 ppm VOC: 300 ppm
+
