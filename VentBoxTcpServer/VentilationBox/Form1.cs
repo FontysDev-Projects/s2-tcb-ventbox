@@ -4,6 +4,7 @@ using System.IO;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Threading;
+using System.Linq;
 
 namespace VentilationBox
 {
@@ -73,7 +74,7 @@ namespace VentilationBox
             Thread t = new Thread(delegate ()
             {
                 // replace the IP with your system IP Address...
-                Server myserver = new Server("172.27.208.141", 8888, message);
+                Server myserver = new Server("172.27.208.139", 8888, message);
             });
             t.Start();
 
@@ -245,23 +246,70 @@ namespace VentilationBox
                 lblAcOutput.Text = "90%";
             }
         }
-
-        string getParameterName(string command)
+        string getParameterName(string command, int index)
         {
-
-            string parameterName = "";
-            int end = command.IndexOf('-');
-            parameterName = command.Substring(1, end - 1);
-            return parameterName;
+            int start = 0;
+            if (index == 0)
+            {
+                string parameterName = "";
+                int end = command.IndexOf('-');
+                parameterName = command.Substring(1, end - 1);
+                return parameterName;
+            }
+            else
+            {
+                do
+                {
+                    start = command.IndexOf('&');
+                    if (start == -1)
+                    {
+                        throw new Exception("Couldn't find that index measurement");
+                    }
+                    start++;
+                    index--;
+                } while (index > 0);
+                int end = command.IndexOf('-', start);
+                return command.Substring(start, end - start);
+            }
         }
 
-        String getParameterValue(string command)
+        String getParameterValue(string command, int index)
         {
-            String parameterValue = "";
-            int start = command.IndexOf('-');
-            int end = command.IndexOf('%');
-            parameterValue = command.Substring(start + 1, end - start - 1);
-            return parameterValue;
+            int start = 0;
+            if (index == 0)
+            {
+                String parameterValue = "";
+                start = command.IndexOf('-');
+                start++;
+                int end = command.IndexOf('&');
+                if (end == -1)
+                {
+                    end = command.Length - 1;
+                }
+                parameterValue = command.Substring(start, end - start);
+                return parameterValue;
+            }
+            else
+            {
+                start = command.IndexOf('-');
+                start++;
+                do
+                {
+                    start = command.IndexOf('-', start);
+                    if (start == -1)
+                    {
+                        throw new Exception("Couldn't find that index measurement");
+                    }
+                    start++;
+                    index--;
+                } while (index > 0);
+                int end = command.IndexOf('&', start);
+                if (end == -1)
+                {
+                    end = command.Length - 1;
+                }
+                return command.Substring(start, end - start );
+            }
         }
 
         double setParameter(string parameterValue, double parameterLimit, Label parameterLabel, string parameterAlert)
@@ -342,8 +390,19 @@ namespace VentilationBox
 
         void getData(string command)
         {
-            if (command[0] == '$')
-                showParameter(getParameterName(command), getParameterValue(command));
+            if (command.Contains('&'))
+            {
+                showParameter(getParameterName(command, 0), getParameterValue(command, 0));
+                showParameter(getParameterName(command, 1), getParameterValue(command, 1));
+                Console.WriteLine(getParameterName(command, 0));
+                Console.WriteLine(getParameterValue(command, 0));
+                Console.WriteLine(getParameterName(command, 1));
+                Console.WriteLine(getParameterValue(command, 1));
+            }
+            else
+            {
+                showParameter(getParameterName(command, 0), getParameterValue(command, 0));
+            }
         }
 
         private async void timer1_Tick(object sender, EventArgs e)
@@ -368,7 +427,6 @@ namespace VentilationBox
                 lblReading.Text = commandToDo;
                 if (commandToDo[0] == '$')
                 {
-
                     getData(commandToDo);
                 }
             }
