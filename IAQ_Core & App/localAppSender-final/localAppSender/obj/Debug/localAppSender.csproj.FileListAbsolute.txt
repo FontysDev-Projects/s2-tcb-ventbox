@@ -1,0 +1,10 @@
+C:\Users\yvank\Desktop\localAppSender\localAppSender\bin\Debug\localAppSender.exe.config
+C:\Users\yvank\Desktop\localAppSender\localAppSender\bin\Debug\localAppSender.exe
+C:\Users\yvank\Desktop\localAppSender\localAppSender\bin\Debug\localAppSender.pdb
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.csprojAssemblyReference.cache
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.Form1.resources
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.Properties.Resources.resources
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.csproj.GenerateResource.cache
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.csproj.CoreCompileInputs.cache
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.exe
+C:\Users\yvank\Desktop\localAppSender\localAppSender\obj\Debug\localAppSender.pdb
