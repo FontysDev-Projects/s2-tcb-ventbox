@@ -1,0 +1,10 @@
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\bin\Debug\VentilationBox.exe.config
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\bin\Debug\VentilationBox.exe
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\bin\Debug\VentilationBox.pdb
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.csprojAssemblyReference.cache
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.Form1.resources
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.Properties.Resources.resources
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.Ventilation.resources
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.csproj.GenerateResource.cache
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.exe
+D:\Fontys\Tech project\semester-2-project\semester-2-project\VentBoxTcpServer\VentilationBox\obj\Debug\VentilationBox.pdb
